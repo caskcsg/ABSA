@@ -1,0 +1,620 @@
+{"senid": "428", "sens": ["i", "had", "the", "best", "ravioli", "ever"], "aspects": [["ravioli", "positive"]]}
+{"senid": "77", "sens": ["i", "grew", "up", "eating", "dosa", "and", "have", "yet", "to", "find", "a", "place", "in", "ny", "to", "satisfy", "my", "taste", "buds"], "aspects": [["dosa", "neutral"]]}
+{"senid": "809", "sens": ["late", "nite", "omelletes", "are", "not", "good", "here", "there", "is", "no", "variety"], "aspects": [["omelletes", "negative"]]}
+{"senid": "1915", "sens": ["the", "wait", "here", "is", "long", "for", "dim", "sum", "but", "if", "you", "don't", "like", "sharing", "tables", "or", "if", "the", "typical", "raucous", "dim", "sum", "atmosphere", "is", "not", "your", "gig", "this", "is", "a", "sleek", "for", "chinatown", "alternative"], "aspects": [["wait", "negative"], ["dim sum", "neutral"], ["dim sum atmosphere", "neutral"], ["tables", "positive"]]}
+{"senid": "499", "sens": ["a++", "the", "service", "was", "good", "to", "excellent", "along", "with", "the", "attitude"], "aspects": [["service", "positive"], ["attitude", "positive"]]}
+{"senid": "431", "sens": ["the", "bill", "is", "approximately", "$25", "for", "2", "at", "lunch", "without", "drinks"], "aspects": [["bill", "neutral"], ["lunch", "neutral"], ["drinks", "neutral"]]}
+{"senid": "1645", "sens": ["the", "decor", "is", "really", "blah", "and", "not", "at", "all", "hip", "or", "happening"], "aspects": [["decor", "negative"]]}
+{"senid": "2079", "sens": ["again", "if", "you", "are", "in", "this", "neighborhood", "by", "all", "means", "come", "here"], "aspects": []}
+{"senid": "1646", "sens": ["having", "discovered", "ping's", "on", "the", "internet", "we", "entered", "with", "qualms", "but", "were", "instantly", "put", "to", "ease", "by", "the", "fish", "tanks", "that", "greet", "you", "as", "u", "walk", "in"], "aspects": [["fish tanks", "positive"]]}
+{"senid": "69", "sens": ["not", "what", "i", "wanted", "to", "hear"], "aspects": []}
+{"senid": "2966", "sens": ["deliveries", "often", "take", "up", "to", "an", "hour", "and", "the", "prices", "are", "higher", "than", "most", "other", "pizzerias", "in", "the", "area"], "aspects": [["deliveries", "negative"], ["prices", "negative"]]}
+{"senid": "2013", "sens": ["we", "could", "have", "made", "a", "meal", "of", "the", "yummy", "dumplings", "from", "the", "dumpling", "menu"], "aspects": [["dumplings", "positive"], ["meal", "positive"], ["dumpling menu", "positive"]]}
+{"senid": "2939", "sens": ["went", "to", "ottimo", "and", "was", "expecting", "outstanding", "pizza", "as", "i", "love", "la", "pizza", "fresca"], "aspects": [["pizza", "neutral"]]}
+{"senid": "2468", "sens": ["i", "won't", "go", "back", "unless", "someone", "else", "is", "footing", "the", "bill"], "aspects": [["bill", "negative"]]}
+{"senid": "1490", "sens": ["everyone", "i", "bring", "here", "always", "loves", "it"], "aspects": []}
+{"senid": "1177", "sens": ["there", "is", "a", "lot", "of", "variety", "even", "for", "people", "who", "eat", "vegetarian", "like", "me"], "aspects": []}
+{"senid": "76", "sens": ["can't", "wait", "to", "go", "back"], "aspects": []}
+{"senid": "1495", "sens": ["why", "do", "people", "rave", "about", "the", "ambience"], "aspects": [["ambience", "negative"]]}
+{"senid": "210", "sens": ["i", "am", "completely", "hooked", "on", "this", "place", "it", "is", "ridiculous"], "aspects": []}
+{"senid": "2308", "sens": ["i", "can't", "wait", "to", "go", "back"], "aspects": []}
+{"senid": "3029", "sens": ["boy", "was", "i", "wrong"], "aspects": []}
+{"senid": "1478", "sens": ["everyone", "is", "welcomed", "in", "as", "family"], "aspects": []}
+{"senid": "1787", "sens": ["really", "cool", "stauff", "inside"], "aspects": [["stauff", "positive"]]}
+{"senid": "1703", "sens": ["great", "wine", "selection", "gigondas", "is", "worth", "the", "price", "and", "the", "house", "champagne", "is", "a", "great", "value"], "aspects": [["wine selection", "positive"], ["gigondas", "positive"], ["house champagne", "positive"], ["price", "neutral"]]}
+{"senid": "2091", "sens": ["quality", "ingredients", "preparation", "all", "around", "and", "a", "very", "fair", "price", "for", "nyc"], "aspects": [["ingredients", "positive"], ["price", "positive"]]}
+{"senid": "1810", "sens": ["also", "because", "it", "is", "so", "thin", "it", "gets", "cold", "very", "quickly", "and", "its", "not", "that", "filling"], "aspects": []}
+{"senid": "786", "sens": ["super", "friendly", "and", "knowledgable", "staff", "fabulous", "bistro", "fare", "and", "a", "wonderful", "jazz", "brunch", "with", "great", "live", "jazz", "the", "chilaquiles", "were", "awesome"], "aspects": [["staff", "positive"], ["bistro fare", "positive"], ["chilaquiles", "positive"], ["jazz brunch", "positive"], ["live jazz", "positive"]]}
+{"senid": "2175", "sens": ["as", "a", "retired", "hipster", "i", "can", "say", "with", "some", "degree", "of", "certainty", "that", "for", "the", "last", "year", "lucky", "strike", "has", "been", "the", "best", "laid", "back", "late", "night", "in", "the", "city"], "aspects": []}
+{"senid": "188", "sens": ["service", "is", "friendly", "and", "never", "had", "a", "problem", "walking", "in", "and", "getting", "a", "table"], "aspects": [["service", "positive"], ["getting a table", "positive"]]}
+{"senid": "1008", "sens": ["i", "pray", "it", "stays", "open", "forever"], "aspects": []}
+{"senid": "2536", "sens": ["we", "all", "had", "the", "tasting", "menu", "and", "unlike", "some", "of", "the", "other", "reviews", "i", "felt", "there", "was", "more", "than", "enough", "food"], "aspects": [["menu", "positive"], ["food", "positive"]]}
+{"senid": "1533", "sens": ["we", "had", "a", "most", "unpleasant", "experience", "at", "this", "restaurant"], "aspects": []}
+{"senid": "1453", "sens": ["from", "the", "moment", "you", "enter", "till", "the", "moment", "you", "walk", "out", "the", "friendly", "and", "helpful", "staff", "was", "was", "just", "fantastic"], "aspects": [["staff", "positive"]]}
+{"senid": "2144", "sens": ["i", "ate", "here", "a", "week", "ago", "and", "found", "most", "dishes", "average", "at", "best", "and", "too", "expensive"], "aspects": [["dishes", "negative"]]}
+{"senid": "2018", "sens": ["the", "food", "itself", "was", "just", "ok", "nothing", "spectacular", "but", "the", "service", "was", "awful"], "aspects": [["food", "neutral"], ["service", "negative"]]}
+{"senid": "1345", "sens": ["the", "food", "was", "absolutely", "amazing"], "aspects": [["food", "positive"]]}
+{"senid": "114", "sens": ["i'll", "be", "back", "soon"], "aspects": []}
+{"senid": "253", "sens": ["the", "soup", "for", "the", "udon", "was", "soy", "sauce", "and", "water"], "aspects": [["soup for the udon", "negative"], ["soy sauce", "neutral"], ["water", "neutral"]]}
+{"senid": "1448", "sens": ["i", "have", "never", "eaten", "in", "the", "restaurant", "however", "upon", "reading", "the", "reviews", "i", "got", "take", "out", "last", "week"], "aspects": []}
+{"senid": "1348", "sens": ["mermaid", "inn", "is", "an", "overall", "good", "restaurant", "with", "really", "good", "seafood"], "aspects": [["seafood", "positive"]]}
+{"senid": "1682", "sens": ["everything", "i", "had", "was", "good", "and", "i'm", "a", "eater"], "aspects": []}
+{"senid": "791", "sens": ["it's", "not", "mind", "blowing", "but", "to", "me", "thai", "food", "never", "is", "and", "never", "will", "be"], "aspects": [["thai food", "neutral"]]}
+{"senid": "22", "sens": ["obviously", "run", "by", "folks", "who", "know", "a", "pie"], "aspects": []}
+{"senid": "3032", "sens": ["we", "ate", "outside", "at", "haru's", "sake", "bar", "because", "haru's", "restaurant", "next", "door", "was", "overflowing"], "aspects": [["bar", "neutral"]]}
+{"senid": "1319", "sens": ["perhaps", "the", "last", "reviewer", "who", "stated", "she", "was", "treated", "with", "attitude", "lives", "in", "a", "parallel", "universe", "because", "i", "have", "never", "had", "anything", "but", "a", "perfect", "experience", "at", "yasuda"], "aspects": []}
+{"senid": "1087", "sens": ["the", "service", "is", "a", "little", "scatty", "at", "times", "but", "all", "is", "forgiven", "when", "the", "food", "arrives"], "aspects": [["service", "negative"], ["food", "positive"]]}
+{"senid": "1002", "sens": ["i'd", "call", "it", "an", "'italian", "dinner'"], "aspects": [["dinner", "neutral"]]}
+{"senid": "2960", "sens": ["however", "i", "think", "jeckll", "and", "hydes", "t", "is", "one", "of", "those", "places", "that", "is", "fun", "to", "do", "once"], "aspects": []}
+{"senid": "2483", "sens": ["stay", "away", "from", "the", "two", "specialty", "rolls", "on", "the", "menu", "though", "too", "much", "avocado", "and", "rice", "will", "fill", "you", "up", "right", "quick"], "aspects": [["rolls", "negative"], ["menu", "neutral"], ["avocado", "negative"], ["rice", "negative"]]}
+{"senid": "1166", "sens": ["this", "isn't", "your", "corner", "chinese", "food", "takeout"], "aspects": [["chinese food", "neutral"]]}
+{"senid": "1031", "sens": ["and", "the", "prices", "were", "way", "to", "high", "for", "what", "you", "get"], "aspects": [["prices", "negative"]]}
+{"senid": "2799", "sens": ["they", "outshine", "hh"], "aspects": []}
+{"senid": "1075", "sens": ["i", "live", "in", "the", "neighborhood", "and", "my", "friends", "meet", "me", "down", "here", "not", "only", "for", "the", "bar", "scene", "but", "also", "the", "promise", "of", "the", "pizza", "place", "at", "3am"], "aspects": [["bar scene", "positive"]]}
+{"senid": "1336", "sens": ["i", "often", "go", "there", "to", "eat", "with", "my", "family"], "aspects": []}
+{"senid": "2714", "sens": ["i", "drop", "more", "dollar", "bills", "here", "than", "your", "uncle", "after", "a", "weekend", "at", "scores"], "aspects": []}
+{"senid": "813", "sens": ["behind", "this", "counter", "two", "men", "are", "squeezed", "in"], "aspects": [["counter", "negative"]]}
+{"senid": "1205", "sens": ["a", "very", "inviting", "restaurant", "with", "friendly", "service"], "aspects": [["service", "positive"]]}
+{"senid": "2870", "sens": ["if", "you", "are", "someone", "who", "appreciates", "simplicity", "elegance", "and", "wonderfully", "presented", "and", "tasting", "seafood", "and", "vegetables", "regardless", "of", "portion", "size", "kai", "is", "your", "place"], "aspects": [["seafood", "positive"], ["vegetables", "positive"], ["portion size", "negative"]]}
+{"senid": "1861", "sens": ["you", "get", "what", "you", "pay", "for", "and", "with", "that", "logic", "in", "mind", "spice", "is", "a", "great", "place", "to", "grab", "some", "cheap", "eats", "and", "drinks", "in", "a", "beautiful", "setting"], "aspects": [["eats", "positive"], ["drinks", "positive"], ["setting", "positive"]]}
+{"senid": "1542", "sens": ["a", "cool", "place", "to", "hang", "with", "your", "friends", "for", "a", "couple", "of", "healthy", "drinks", "and", "desserts"], "aspects": [["place", "positive"], ["drinks", "positive"], ["desserts", "positive"]]}
+{"senid": "622", "sens": ["as", "we", "were", "leaving", "the", "couple", "standing", "by", "the", "door", "said", "to", "another", "waiter", "we're", "not", "in", "a", "hurry"], "aspects": [["waiter", "neutral"]]}
+{"senid": "2955", "sens": ["ask", "for", "usha", "the", "nicest", "bartender", "in", "manhattan"], "aspects": [["bartender", "positive"]]}
+{"senid": "2914", "sens": ["just", "because", "it's", "cheap", "does", "not", "mean", "the", "portions", "are", "small", "or", "the", "food", "is", "nasty", "it", "is", "great"], "aspects": [["portions", "positive"], ["food", "positive"]]}
+{"senid": "2694", "sens": ["it", "was", "raining", "and", "we", "figured", "why", "not"], "aspects": []}
+{"senid": "2210", "sens": ["their", "sake", "martini", "is", "wonderful"], "aspects": [["sake martini", "positive"]]}
+{"senid": "1717", "sens": ["service", "is", "average"], "aspects": [["service", "neutral"]]}
+{"senid": "1342", "sens": ["i", "noted", "it", "was", "crossed", "off", "on", "the", "bill"], "aspects": [["bill", "neutral"]]}
+{"senid": "2005", "sens": ["i", "am", "happy", "i", "did", "the", "food", "was", "awsome"], "aspects": [["food", "positive"]]}
+{"senid": "2977", "sens": ["strike", "up", "a", "conversation", "with", "the", "attorney", "next", "to", "you", "or", "with", "the", "local", "union", "worker", "on", "the", "other", "side"], "aspects": []}
+{"senid": "1218", "sens": ["the", "space", "is", "a", "bit", "too", "small", "for", "live", "music", "so", "on", "jazz", "nights", "it", "can", "be", "loud", "and", "cramped"], "aspects": [["live music", "neutral"], ["space", "negative"], ["jazz nights", "neutral"]]}
+{"senid": "2608", "sens": ["perhaps", "it", "was", "an", "off", "night", "but", "it", "was", "suprisingly", "average", "for", "a", "9", "3", "rating"], "aspects": []}
+{"senid": "2735", "sens": ["yeah", "sometimes", "the", "service", "can", "be", "slow"], "aspects": [["service", "negative"]]}
+{"senid": "2113", "sens": ["the", "food", "is", "tasty", "and", "portion", "sizes", "are", "appropriate"], "aspects": [["food", "positive"], ["portion sizes", "positive"]]}
+{"senid": "621", "sens": ["to", "give", "you", "an", "idea", "of", "how", "good", "we", "thought", "it", "was", "we", "ended", "up", "going", "to", "ping's", "three", "weekends", "in", "a", "row"], "aspects": []}
+{"senid": "2774", "sens": ["i", "fell", "in", "love", "with", "the", "egg", "noodles", "in", "the", "beef", "broth", "with", "shrimp", "dumplings", "and", "slices", "of", "bbq", "roast", "pork"], "aspects": [["egg noodles in the beef broth with shrimp dumplings and slices of bbq roast pork", "positive"]]}
+{"senid": "2068", "sens": ["i", "recently", "tried", "suan", "and", "i", "thought", "that", "it", "was", "great"], "aspects": []}
+{"senid": "2289", "sens": ["i", "was", "wrong"], "aspects": []}
+{"senid": "541", "sens": ["pastrami", "or", "corned", "beef", "are", "juicy", "and", "piled", "high", "ask", "for", "extra", "rye", "bread"], "aspects": [["pastrami or corned beef", "positive"], ["rye bread", "positive"]]}
+{"senid": "963", "sens": ["the", "crust", "is", "thin", "the", "ingredients", "are", "fresh", "and", "the", "staff", "is", "friendly"], "aspects": [["crust", "positive"], ["staff", "positive"], ["ingredients", "positive"]]}
+{"senid": "26", "sens": ["i", "will", "be", "going", "back", "very", "soon"], "aspects": []}
+{"senid": "1445", "sens": ["i'm", "surprised", "about", "some", "of", "the", "bad", "reviews", "posted", "here", "i've", "been", "to", "tamarind", "about", "5", "or", "6", "times", "and", "always", "come", "away", "extremely", "satisfied", "and", "looking", "forward", "to", "returning"], "aspects": []}
+{"senid": "2945", "sens": ["however", "if", "you", "want", "great", "food", "at", "a", "great", "price", "and", "don't", "mind", "the", "decor", "you", "can't", "beat", "this", "place"], "aspects": [["food", "positive"], ["price", "positive"], ["decor", "negative"]]}
+{"senid": "1581", "sens": ["we", "were", "pleasantly", "greeted"], "aspects": []}
+{"senid": "2989", "sens": ["very", "different", "than", "regular", "dimsum", "places"], "aspects": []}
+{"senid": "319", "sens": ["lived", "in", "shanghai", "most", "of", "my", "life", "and", "thought", "the", "food", "was", "comparable", "to", "the", "flagship", "green", "bo", "restaurant", "there"], "aspects": [["food", "positive"]]}
+{"senid": "387", "sens": ["somewhat", "pricey", "but", "what", "the", "heck"], "aspects": []}
+{"senid": "2641", "sens": ["the", "sushi", "is", "average", "and", "the", "prices", "are", "anything", "but"], "aspects": [["sushi", "neutral"], ["prices", "neutral"]]}
+{"senid": "2910", "sens": ["i", "went", "to", "ruby", "foos", "for", "my", "birthday", "and", "enjoyed", "our", "experience", "there"], "aspects": []}
+{"senid": "91", "sens": ["deff", "recimmend", "bukhara", "they", "also", "have", "opened", "two", "new", "locations", "guess", "ill", "try", "them", "out"], "aspects": []}
+{"senid": "2772", "sens": ["here", "you", "get", "the", "zen", "feel", "without", "feeling", "rigid"], "aspects": [["zen feel", "positive"]]}
+{"senid": "727", "sens": ["the", "owner", "truly", "caters", "to", "all", "your", "needs"], "aspects": [["owner", "positive"]]}
+{"senid": "2950", "sens": ["sake", "collection", "was", "excellent", "try", "nanbu", "bijin", "but", "pricy"], "aspects": [["sake collection", "conflict"], ["nanbu bijin", "positive"]]}
+{"senid": "2390", "sens": ["stick", "to", "dimsum", "not", "super", "overpriced", "noodles"], "aspects": [["noodles", "neutral"], ["dimsum", "positive"]]}
+{"senid": "1299", "sens": ["mine", "was", "a", "little", "burnt", "but", "still", "delicious", "with", "goat", "cheese", "and", "panchetta", "raddichio", "was", "kind", "of", "bitter", "though"], "aspects": [["goat cheese", "positive"], ["panchetta", "positive"], ["raddichio", "negative"]]}
+{"senid": "340", "sens": ["i", "will", "have", "to", "say", "this", "bengali", "fast", "food", "joint", "is", "clearly", "my", "favorite"], "aspects": []}
+{"senid": "2028", "sens": ["if", "your", "into", "thai", "you", "cannot", "miss", "this", "great", "restaurant"], "aspects": []}
+{"senid": "1801", "sens": ["bring", "your", "appetites"], "aspects": []}
+{"senid": "2146", "sens": ["and", "i", "could", "do", "without", "the", "cigar", "smoke"], "aspects": []}
+{"senid": "1198", "sens": ["the", "fried", "rice", "is", "really", "good", "too"], "aspects": [["fried rice", "positive"]]}
+{"senid": "1041", "sens": ["all", "of", "it", "was", "simply", "amazing", "unique", "and", "tasty", "and", "best", "of", "all", "it", "didn't", "break", "the", "bank"], "aspects": []}
+{"senid": "2345", "sens": ["i", "have", "reservations", "about", "the", "all", "you", "can", "eat", "deal", "however", "the", "choices", "are", "fairly", "limited", "and", "you", "can", "probably", "order", "more", "food", "than", "you", "can", "eat", "for", "less", "than", "$18", "by", "just", "going", "off", "the", "menu"], "aspects": [["choices", "negative"], ["reservations", "neutral"], ["food", "neutral"], ["menu", "neutral"]]}
+{"senid": "1045", "sens": ["beef", "noodle", "soup", "is", "good", "as", "well"], "aspects": [["beef noodle soup", "positive"]]}
+{"senid": "1743", "sens": ["there", "is", "a", "real", "gallery", "of", "stars", "that", "have", "visited"], "aspects": []}
+{"senid": "51", "sens": ["the", "fried", "rice", "is", "amazing", "here"], "aspects": [["fried rice", "positive"]]}
+{"senid": "2355", "sens": ["after", "being", "told", "that", "our", "party", "of", "three", "would", "be", "seated", "in", "10", "minutes", "and", "watching", "other", "parties", "multiples", "of", "2", "and", "higher", "seated", "for", "40", "minutes", "the", "three", "of", "us", "were", "squished", "into", "a", "small", "2", "person", "table"], "aspects": [["2 person table", "negative"]]}
+{"senid": "2220", "sens": ["cute", "and", "decorative"], "aspects": []}
+{"senid": "2051", "sens": ["my", "wife", "and", "i", "will", "usually", "only", "order", "one", "primi", "and", "one", "secondi", "and", "split", "them", "as", "they", "tend", "to", "offer", "large", "portions"], "aspects": [["primi", "positive"], ["secondi", "positive"], ["portions", "positive"]]}
+{"senid": "176", "sens": ["on", "a", "monthly", "basis", "my", "friends", "and", "i", "get", "together", "and", "have", "a", "girls", "night", "out"], "aspects": []}
+{"senid": "2318", "sens": ["this", "is", "the", "best", "sushi", "in", "new", "york", "city", "hands", "down"], "aspects": [["sushi", "positive"]]}
+{"senid": "2325", "sens": ["from", "the", "complimentary", "chef", "app", "of", "a", "delicate", "butternut", "squash", "ravioli", "in", "a", "delicious", "truffle", "sauce", "to", "an", "amazing", "buttery", "and", "tender", "langostine", "entree", "to", "a", "dessert", "that", "i", "can't", "remember", "because", "of", "the", "fabulous", "cakebread", "cabernet", "we", "were", "drinking", "the", "whole", "evening", "was", "amazing"], "aspects": [["chef app", "positive"], ["delicate butternut squash ravioli in a delicious truffle sauce", "positive"], ["buttery and tender langostine entree", "positive"], ["dessert", "neutral"], ["cakebread cabernet", "positive"]]}
+{"senid": "1331", "sens": ["great", "pizza", "for", "lunch", "place"], "aspects": [["pizza", "positive"]]}
+{"senid": "3028", "sens": ["they", "were", "able", "to", "squeeze", "me", "in", "at", "6", "after", "i", "called", "the", "night", "before", "my", "anniversary", "for", "a", "friday", "night", "reservation", "and", "told", "me", "they'd", "treat", "us", "well", "for", "the", "occasion"], "aspects": [["reservation", "neutral"]]}
+{"senid": "2378", "sens": ["stick", "with", "the", "chicken", "beef", "and", "lamb", "dishes"], "aspects": [["chicken", "positive"], ["beef", "positive"], ["lamb dishes", "positive"]]}
+{"senid": "2522", "sens": ["dessert", "can't", "be", "missed", "so", "save", "room"], "aspects": [["dessert", "positive"]]}
+{"senid": "854", "sens": ["drawbacks", "service", "is", "slow", "and", "they", "don't", "toast"], "aspects": [["service", "negative"]]}
+{"senid": "1251", "sens": ["no", "more", "reservations", "expensive", "tips", "and", "annoying", "stuff"], "aspects": [["reservations", "positive"], ["tips", "positive"], ["stuff", "positive"]]}
+{"senid": "386", "sens": ["they", "are", "tasty", "but", "i", "suggest", "only", "eating", "one", "with", "meat", "because", "they", "tend", "not", "to", "mesh", "that", "well", "with", "the", "average", "american", "digestive", "system"], "aspects": [["meat", "neutral"]]}
+{"senid": "465", "sens": ["they", "refuse", "to", "seat", "parties", "of", "3", "or", "more", "on", "weekends"], "aspects": []}
+{"senid": "1503", "sens": ["the", "owner", "and", "staff", "are", "all", "japanese", "as", "well", "and", "that", "adds", "to", "the", "entire", "ambiance"], "aspects": [["staff", "positive"], ["ambiance", "positive"], ["owner", "positive"]]}
+{"senid": "2741", "sens": ["the", "perfect", "spot"], "aspects": []}
+{"senid": "2109", "sens": ["the", "pizza", "was", "really", "good"], "aspects": [["pizza", "positive"]]}
+{"senid": "2656", "sens": ["this", "is", "the", "kind", "of", "place", "you'd", "like", "to", "take", "all", "your", "friends", "to", "and", "still", "keep", "a", "secret"], "aspects": []}
+{"senid": "447", "sens": ["you", "could", "get", "a", "much", "better", "dining", "experience", "for", "the", "same", "amount", "of", "money", "in", "a", "lot", "of", "other", "french", "bistros"], "aspects": []}
+{"senid": "684", "sens": ["it's", "also", "attached", "to", "angel's", "share", "which", "is", "a", "cool", "more", "romantic", "bar"], "aspects": [["bar", "positive"]]}
+{"senid": "2569", "sens": ["they", "have", "some", "great", "entrees", "here", "as", "well"], "aspects": [["entrees", "positive"]]}
+{"senid": "898", "sens": ["like", "saying", "her", "bread", "comes", "from", "a", "special", "bakery", "when", "we", "have", "seen", "her", "buying", "it", "dowtown", "manhathan"], "aspects": [["bread", "negative"]]}
+{"senid": "1968", "sens": ["i", "would", "defiantly", "come", "back", "here", "again", "as", "one", "of", "my", "top", "choices"], "aspects": []}
+{"senid": "2201", "sens": ["always", "fresh", "and", "delicious"], "aspects": []}
+{"senid": "651", "sens": ["the", "restaurant", "is", "rather", "small", "but", "we", "were", "lucky", "to", "get", "a", "table", "quickly"], "aspects": [["table", "positive"]]}
+{"senid": "2853", "sens": ["this", "place", "is", "worth", "going", "even", "if", "only", "for", "their", "beer"], "aspects": [["beer", "positive"]]}
+{"senid": "1242", "sens": ["definite", "go", "if", "you're", "used", "to", "good", "indian", "restaurant", "food", "from", "abroad"], "aspects": [["indian restaurant food", "positive"]]}
+{"senid": "1294", "sens": ["go", "with", "a", "group", "of", "friends", "and", "you", "will", "have", "a", "great", "time"], "aspects": []}
+{"senid": "843", "sens": ["be", "careful", "before", "you", "request", "extra", "spice"], "aspects": [["spice", "neutral"]]}
+{"senid": "2461", "sens": ["i", "definitely", "will", "go", "back"], "aspects": []}
+{"senid": "2579", "sens": ["avoid", "at", "all", "costs"], "aspects": []}
+{"senid": "2545", "sens": ["when", "i", "visited", "my", "friend", "who", "lives", "in", "the", "upper", "eastside", "she", "recommended", "that", "we", "go", "to", "this", "restaurant"], "aspects": []}
+{"senid": "2542", "sens": ["stumbled", "upon", "this", "gem", "of", "a", "pizza", "place", "and", "i", "will", "be", "going", "back", "frequently"], "aspects": []}
+{"senid": "2472", "sens": ["and", "i", "would", "have", "to", "agree", "with", "the", "masses", "in", "terms", "of", "service", "delivery", "is", "their", "achilles'", "heel"], "aspects": [["service", "negative"], ["delivery", "negative"]]}
+{"senid": "2165", "sens": ["this", "is", "the", "pinnacle", "of", "indian", "fast", "food", "all", "fast", "foods", "in", "my", "opinion"], "aspects": [["indian fast food", "positive"]]}
+{"senid": "2226", "sens": ["you", "will", "be", "satisfied"], "aspects": []}
+{"senid": "2505", "sens": ["average", "to", "good", "thai", "food", "but", "terrible", "delivery"], "aspects": [["thai food", "positive"], ["delivery", "negative"]]}
+{"senid": "2407", "sens": ["this", "place", "has", "the", "the", "correct", "ambience", "and", "an", "excellent", "staff", "to", "make", "you", "feel", "like", "a", "guest", "and", "a", "friend", "at", "the", "same", "time"], "aspects": [["place", "positive"], ["ambience", "positive"], ["staff", "positive"]]}
+{"senid": "1859", "sens": ["lloovve", "this", "place"], "aspects": []}
+{"senid": "99", "sens": ["the", "cuisine", "from", "what", "i've", "gathered", "is", "authentic", "taiwanese", "though", "its", "very", "different", "from", "what", "i've", "been", "accustomed", "to", "in", "taipei"], "aspects": [["cuisine", "neutral"]]}
+{"senid": "1444", "sens": ["while", "i", "quite", "liked", "the", "food", "and", "the", "ambience", "i'm", "not", "quite", "sure", "if", "it", "they", "really", "deserve", "it", "the", "michelin", "rating", "they", "have", "displayed", "so", "prooudly", "in", "the", "window"], "aspects": [["food", "positive"], ["ambience", "positive"]]}
+{"senid": "2156", "sens": ["price", "and", "quality", "of", "fish", "alone", "will", "keep", "us", "from", "making", "a", "return", "visit"], "aspects": [["price", "negative"], ["fish", "negative"], ["quality", "negative"]]}
+{"senid": "2943", "sens": ["there", "is", "nothing", "more", "pleasant", "than", "that"], "aspects": []}
+{"senid": "1307", "sens": ["meanwhile", "the", "bartender", "continued", "to", "pour", "champagne", "from", "his", "reserve", "after", "we", "had", "finished", "our", "bottle", "and", "we", "enjoyed", "an", "amuse", "of", "turnip", "soup", "with", "pureed", "basil", "gratis"], "aspects": [["bartender", "positive"], ["champagne", "neutral"], ["turnip soup with pureed basil", "positive"]]}
+{"senid": "1335", "sens": ["and", "that's", "no", "mean", "feat"], "aspects": []}
+{"senid": "2791", "sens": ["the", "service", "was", "excellent", "the", "food", "was", "excellent", "but", "the", "entire", "experience", "was", "very", "cool"], "aspects": [["service", "positive"], ["food", "positive"]]}
+{"senid": "1452", "sens": ["would", "recommend", "perfect", "for", "those", "looking", "for", "a", "place", "close", "to", "grand", "central"], "aspects": []}
+{"senid": "93", "sens": ["dip", "the", "ingredients", "in", "with", "your", "chopsticks", "swirl", "them", "around", "and", "eat"], "aspects": [["ingredients", "neutral"], ["chopsticks", "neutral"]]}
+{"senid": "444", "sens": ["we", "visited", "bread", "bar", "during", "january", "restaurant", "week", "and", "were", "so", "pleased", "with", "the", "menu", "selections", "and", "service"], "aspects": [["menu selections", "positive"], ["service", "positive"]]}
+{"senid": "84", "sens": ["great", "bagels", "spreads", "and", "a", "good", "place", "to", "hang", "out", "in"], "aspects": [["bagels", "positive"], ["spreads", "positive"]]}
+{"senid": "3031", "sens": ["note", "that", "they", "do", "not", "serve", "beer", "you", "must", "bring", "your", "own"], "aspects": [["beer", "negative"]]}
+{"senid": "1785", "sens": ["try", "the", "chocolate", "mud", "cake", "warmed", "with", "2", "scoops", "of", "dulce", "de", "leche", "gelato"], "aspects": [["chocolate mud cake warmed", "positive"], ["dulce de leche gelato", "positive"]]}
+{"senid": "3035", "sens": ["better", "than", "the", "bagel", "shop", "on", "the", "corner", "but", "not", "worth", "going", "out", "of", "your", "way", "for", "in", "my", "opinion"], "aspects": []}
+{"senid": "1963", "sens": ["the", "takeout", "is", "great", "too", "since", "they", "give", "high", "quality", "tupperware", "as", "well"], "aspects": [["takeout", "positive"]]}
+{"senid": "41", "sens": ["we", "usually", "go", "to", "the", "chart", "house", "to", "celebrate", "a", "birthday", "or", "anniversary"], "aspects": []}
+{"senid": "1344", "sens": ["best", "dish", "is", "nori", "wrapped", "tuna"], "aspects": [["nori wrapped tuna", "positive"], ["dish", "positive"]]}
+{"senid": "483", "sens": ["it", "hits", "the", "spot", "every", "time"], "aspects": []}
+{"senid": "1470", "sens": ["every", "course", "was", "better", "than", "the", "next"], "aspects": [["course", "positive"]]}
+{"senid": "851", "sens": ["tends", "to", "turn", "people", "away"], "aspects": []}
+{"senid": "1006", "sens": ["have", "frequented", "'ino", "for", "several", "years", "and", "the", "food", "remains", "excellent"], "aspects": [["food", "positive"]]}
+{"senid": "1879", "sens": ["rao's", "has", "the", "best", "service", "and", "atmosphere", "in", "nyc"], "aspects": [["service", "positive"], ["atmosphere", "positive"]]}
+{"senid": "1474", "sens": ["apparently", "the", "good", "cook", "works", "then"], "aspects": [["cook", "positive"]]}
+{"senid": "2094", "sens": ["we", "began", "with", "the", "cheese", "fondue", "the", "artisanal", "blend", "and", "added", "apples", "and", "kielbasa", "to", "dip"], "aspects": [["cheese fondue", "neutral"], ["kielbasa", "neutral"], ["apples", "neutral"]]}
+{"senid": "669", "sens": ["a", "great", "choice", "at", "any", "cost", "and", "a", "great", "deal"], "aspects": [["cost", "positive"]]}
+{"senid": "255", "sens": ["the", "waitress", "suggested", "glasses", "of", "wine", "that", "went", "very", "well", "with", "the", "food"], "aspects": [["waitress", "positive"], ["food", "neutral"], ["glasses of wine", "positive"]]}
+{"senid": "2675", "sens": ["we", "left", "after", "one", "drink"], "aspects": [["drink", "neutral"]]}
+{"senid": "300", "sens": ["i", "would", "highly", "recommend"], "aspects": []}
+{"senid": "629", "sens": ["love", "yuka"], "aspects": []}
+{"senid": "616", "sens": ["have", "eaten", "at", "ginger", "house", "several", "times", "and", "it's", "always", "good"], "aspects": []}
+{"senid": "737", "sens": ["great", "romantic", "place", "for", "a", "date", "try", "to", "get", "the", "corner", "booth", "table", "for", "a", "little", "privacy", "and", "to", "sit", "close"], "aspects": [["privacy", "positive"], ["corner booth table", "positive"], ["place", "positive"]]}
+{"senid": "2830", "sens": ["it", "is", "loud", "hot", "and", "dark"], "aspects": []}
+{"senid": "823", "sens": ["a", "large", "is", "$20", "and", "toppings", "are", "about", "$3", "each"], "aspects": [["toppings", "neutral"]]}
+{"senid": "2411", "sens": ["worth", "it", "for", "a", "special", "occasion", "or", "any", "time"], "aspects": []}
+{"senid": "445", "sens": ["i", "have", "been", "twice", "to", "this", "restaurant"], "aspects": []}
+{"senid": "2598", "sens": ["their", "coffee", "is", "quite", "good", "too"], "aspects": [["coffee", "positive"]]}
+{"senid": "1413", "sens": ["this", "was", "my", "frist", "time", "at", "cafe", "st", "bart's", "and", "i", "must", "say", "how", "delicous", "the", "food", "and", "the", "service", "was"], "aspects": [["food", "positive"], ["service", "positive"]]}
+{"senid": "1011", "sens": ["if", "you", "want", "to", "save", "some", "money", "don't", "go", "here"], "aspects": []}
+{"senid": "863", "sens": ["even", "though", "its", "good", "seafood", "the", "prices", "are", "too", "high"], "aspects": [["seafood", "positive"], ["prices", "negative"]]}
+{"senid": "221", "sens": ["the", "service", "was", "attentive", "and", "her", "suggestions", "of", "menu", "items", "was", "right", "on", "the", "mark"], "aspects": [["service", "positive"], ["menu items", "positive"]]}
+{"senid": "1458", "sens": ["being", "a", "fan", "of", "spicy", "ethnic", "foods", "indian", "included", "i", "made", "friends", "with", "this", "place", "long", "ago"], "aspects": [["spicy ethnic foods", "positive"]]}
+{"senid": "267", "sens": ["the", "service", "is", "awful"], "aspects": [["service", "negative"]]}
+{"senid": "601", "sens": ["the", "food", "is", "o", "k", "but", "not", "any", "better", "than", "what", "you", "get", "at", "a", "good", "neighborhood", "restaurant"], "aspects": [["food", "neutral"]]}
+{"senid": "2596", "sens": ["the", "wine", "list", "isn't", "great", "and", "the", "desserts", "are", "shipped", "in", "from", "bruno's", "down", "the", "street", "which", "is", "not", "as", "good", "as", "it", "used", "to", "be"], "aspects": [["wine list", "negative"], ["desserts", "negative"]]}
+{"senid": "720", "sens": ["go", "inside", "and", "you", "won't", "want", "to", "leave"], "aspects": []}
+{"senid": "1499", "sens": ["if", "you're", "looking", "for", "a", "great", "meal", "at", "a", "decent", "price", "go", "to", "del", "frisco's"], "aspects": [["meal", "positive"], ["price", "positive"]]}
+{"senid": "209", "sens": ["try", "the", "tandoori", "salmon"], "aspects": [["tandoori salmon", "positive"]]}
+{"senid": "2301", "sens": ["his", "wife", "tanya", "the", "hostess", "completes", "the", "comforting", "atmosphere", "by", "being", "delightfully", "warm", "and", "gracious"], "aspects": [["hostess", "positive"], ["atmosphere", "positive"]]}
+{"senid": "450", "sens": ["good", "food"], "aspects": [["food", "positive"]]}
+{"senid": "998", "sens": ["they", "also", "have", "a", "back", "garden", "open", "in", "the", "summer", "cute", "and", "french", "with", "outdoor", "seating", "what", "more", "could", "you", "ask", "for"], "aspects": [["back garden", "positive"], ["outdoor seatin", "positive"]]}
+{"senid": "2654", "sens": ["i", "live", "nearby", "and", "when", "they", "first", "opened", "i", "ate", "there", "a", "lot"], "aspects": []}
+{"senid": "2036", "sens": ["i", "go", "at", "least", "3", "times", "a", "month", "and", "have", "never", "been", "disappointed"], "aspects": []}
+{"senid": "1722", "sens": ["for", "asian", "fusion", "there", "are", "many", "places", "further", "downtown"], "aspects": []}
+{"senid": "208", "sens": ["last", "time", "i", "went", "here", "the", "waitress", "didn't", "come", "back", "after", "taking", "our", "order"], "aspects": [["waitress", "negative"]]}
+{"senid": "1489", "sens": ["i", "seriously", "doubt", "i", "will", "ever", "dine", "at", "jimmy's", "bronx", "or", "for", "that", "matter", "jimmy's", "uptown", "again"], "aspects": []}
+{"senid": "406", "sens": ["the", "man", "that", "was", "hosting", "promised", "to", "save", "a", "table", "for", "our", "party", "of", "7", "then", "sat", "a", "party", "of", "2", "at", "the", "very", "table", "he", "was", "saving", "mean", "while", "there", "were", "boths", "open", "all", "around"], "aspects": [["man", "negative"], ["table", "neutral"], ["table", "negative"]]}
+{"senid": "55", "sens": ["at", "the", "end", "you're", "left", "with", "a", "mild", "broth", "with", "noodles", "that", "you", "can", "slurp", "out", "of", "a", "cup"], "aspects": [["broth with noodles", "positive"]]}
+{"senid": "994", "sens": ["while", "they", "keep", "the", "capex", "to", "a", "minimum", "they", "do", "put", "some", "cash", "into", "the", "bagels", "because", "they", "among", "the", "best", "in", "the", "city"], "aspects": [["capex", "positive"], ["bagels", "neutral"]]}
+{"senid": "1502", "sens": ["on", "a", "recent", "sunday", "afternoon", "a", "friend", "and", "i", "accidently", "found", "this", "great", "restaurant", "on", "our", "way", "to", "see", "the", "pulitzer", "prize", "winning", "play", "doubt"], "aspects": []}
+{"senid": "163", "sens": ["luckily", "we", "saved", "room", "for", "the", "bbq", "salmon", "sea", "bass", "and", "crispy", "duck"], "aspects": [["bbq salmon", "positive"], ["sea bass", "positive"], ["crispy duck", "positive"]]}
+{"senid": "774", "sens": ["excellent", "experience"], "aspects": []}
+{"senid": "1744", "sens": ["the", "food", "was", "below", "average", "the", "service", "was", "pathetic", "there", "was", "no", "ambience", "at", "all"], "aspects": [["food", "negative"], ["service", "negative"], ["ambience", "negative"]]}
+{"senid": "5", "sens": ["for", "those", "that", "go", "once", "and", "don't", "enjoy", "it", "all", "i", "can", "say", "is", "that", "they", "just", "don't", "get", "it"], "aspects": []}
+{"senid": "685", "sens": ["authentic", "food", "and", "they", "have", "real", "service", "not", "just", "the", "rush", "you", "get", "sometimes", "when", "they", "try", "to", "push", "you", "out", "the", "door"], "aspects": [["food", "positive"], ["service", "positive"]]}
+{"senid": "180", "sens": ["this", "place", "is", "really", "trendi", "but", "they", "have", "forgotten", "about", "the", "most", "important", "part", "of", "a", "restaurant", "the", "food"], "aspects": [["food", "negative"]]}
+{"senid": "294", "sens": ["get", "your", "food", "to", "go", "find", "a", "bench", "and", "kick", "back", "with", "a", "plate", "of", "dumplings"], "aspects": [["food", "neutral"], ["plate of dumplings", "positive"]]}
+{"senid": "2629", "sens": ["i", "came", "into", "the", "city", "to", "try", "out", "this", "restaurant", "because", "a", "friend", "had", "recommended", "it", "to", "my", "husband"], "aspects": []}
+{"senid": "344", "sens": ["based", "on", "the", "reviews", "for", "dinner", "this", "is", "a", "place", "i", "would", "reconsider", "revisiting", "for", "that", "but", "definitely", "not", "for", "dim", "sum", "again"], "aspects": [["dim sum", "negative"], ["dinner", "positive"]]}
+{"senid": "1822", "sens": ["leon", "is", "an", "east", "village", "gem", "casual", "but", "hip", "with", "well", "prepared", "basic", "french", "bistro", "fare", "good", "specials", "a", "warm", "and", "lively", "atmosphere"], "aspects": [["specials", "positive"], ["atmosphere", "positive"], ["french bistro fare", "positive"]]}
+{"senid": "1957", "sens": ["it", "is", "terrific", "as", "is", "the", "value"], "aspects": []}
+{"senid": "3041", "sens": ["from", "the", "appetizers", "we", "ate", "the", "dim", "sum", "and", "other", "variety", "of", "foods", "it", "was", "impossible", "to", "criticize", "the", "food"], "aspects": [["appetizers", "positive"], ["dim sum", "positive"], ["foods", "positive"], ["food", "positive"]]}
+{"senid": "413", "sens": ["if", "you", "are", "in", "the", "area", "try", "the", "bagel", "shoppe", "on", "74th", "street", "which", "is", "3", "blocks", "away", "on", "2nd", "ave"], "aspects": []}
+{"senid": "174", "sens": ["the", "pizza", "here", "is", "delicious"], "aspects": [["pizza", "positive"]]}
+{"senid": "1929", "sens": ["they", "even", "scoop", "it", "out", "nice", "for", "those", "on", "a", "diet", "not", "too", "much", "not", "to", "little"], "aspects": []}
+{"senid": "2444", "sens": ["if", "you", "are", "looking", "for", "a", "good", "quality", "cheap", "eats", "this", "is", "the", "place"], "aspects": [["quality", "positive"]]}
+{"senid": "2695", "sens": ["$6", "and", "there", "is", "much", "tasty", "food", "all", "of", "it", "fresh", "and", "continually", "refilled"], "aspects": [["food", "positive"]]}
+{"senid": "187", "sens": ["its", "an", "excellent", "place", "to", "relax", "and", "the", "food", "is", "one", "of", "the", "best", "in", "the", "city", "of", "new", "york"], "aspects": [["place", "positive"], ["food", "positive"]]}
+{"senid": "913", "sens": ["pizza", "the", "only", "pizza", "in", "nyc", "that", "should", "not", "have", "additional", "toppings", "the", "crust", "tastes", "like", "the", "best", "freshly", "baked", "bread"], "aspects": [["pizza", "positive"], ["crust", "positive"], ["pizza", "positive"], ["toppings", "neutral"], ["bread", "positive"]]}
+{"senid": "1945", "sens": ["i", "had", "the", "black", "cod", "with", "yuzu", "sauce", "which", "was", "wonderful"], "aspects": [["black cod with yuzu sauce", "positive"]]}
+{"senid": "2963", "sens": ["please", "take", "my", "advice", "go", "and", "try", "this", "place"], "aspects": []}
+{"senid": "2211", "sens": ["well", "this", "place", "is", "so", "ghetto", "its", "not", "even", "funny"], "aspects": [["place", "negative"]]}
+{"senid": "956", "sens": ["tell", "them", "herky", "sent", "you", "and", "get", "a", "free", "confused", "look", "from", "the", "waiter"], "aspects": [["waiter", "negative"]]}
+{"senid": "1906", "sens": ["the", "first", "time", "i", "went", "and", "was", "completely", "taken", "by", "the", "live", "jazz", "band", "and", "atmosphere", "i", "ordered", "the", "lobster", "cobb", "salad"], "aspects": [["live jazz band", "positive"], ["atmosphere", "positive"], ["lobster cobb salad", "neutral"]]}
+{"senid": "1254", "sens": ["i", "brought", "some", "buddies", "from", "ca", "and", "they", "loved", "it"], "aspects": []}
+{"senid": "2001", "sens": ["good", "bagels", "and", "good", "cream", "cheese"], "aspects": [["bagels", "positive"], ["cream cheese", "positive"]]}
+{"senid": "2751", "sens": ["they're", "rude", "at", "times", "and", "not", "very", "friendly"], "aspects": []}
+{"senid": "1854", "sens": ["ok", "for", "all", "of", "us", "growing", "up", "in", "the", "village", "of", "nyc", "we", "have", "spoiled", "by", "a", "plethora", "of", "restaurants", "most", "of", "which", "stay", "open", "very", "late"], "aspects": []}
+{"senid": "1759", "sens": ["we", "arrived", "for", "dinner", "expecting", "to", "be", "impressed", "by", "a", "place", "that", "has", "an", "impressive", "past", "but", "that's", "just", "it", "the", "past"], "aspects": [["dinner", "neutral"]]}
+{"senid": "497", "sens": ["highly", "recommend", "this", "as", "great", "value", "for", "excellent", "sushi", "and", "service"], "aspects": [["sushi", "positive"], ["service", "positive"], ["value", "positive"]]}
+{"senid": "2684", "sens": ["the", "fried", "dumplings", "are", "great"], "aspects": [["fried dumplings", "positive"]]}
+{"senid": "530", "sens": ["mizu", "is", "home", "to", "creative", "and", "unique", "rolls", "not", "to", "found", "anywhere", "else"], "aspects": [["rolls", "positive"]]}
+{"senid": "514", "sens": ["my", "personal", "favorite", "is", "an", "everything", "bagel", "with", "lox", "spread", "but", "all", "the", "bagles", "are", "unbeliavably", "good"], "aspects": [["bagel with lox spread", "positive"], ["bagles", "positive"]]}
+{"senid": "1255", "sens": ["inside", "is", "a", "little", "cramped", "but", "to", "be", "expected"], "aspects": []}
+{"senid": "1754", "sens": ["i've", "read", "some", "of", "the", "previews", "reviews", "people", "are", "either", "not", "new", "yorkers", "or", "have", "more", "appreciation", "for", "ambience", "then", "food"], "aspects": [["ambience", "neutral"], ["food", "neutral"]]}
+{"senid": "355", "sens": ["also", "they", "were", "$15", "each"], "aspects": []}
+{"senid": "1605", "sens": ["love", "the", "jazz", "bands", "on", "fri", "and", "sat"], "aspects": [["jazz bands", "positive"]]}
+{"senid": "233", "sens": ["among", "all", "of", "the", "new", "5th", "avenue", "restaurants", "this", "offers", "by", "far", "one", "of", "the", "best", "values", "for", "your", "money"], "aspects": [["values for your money", "positive"]]}
+{"senid": "853", "sens": ["i", "was", "turned", "on", "to", "this", "restaurant", "by", "a", "fellow", "foodie", "friend", "of", "mine", "and", "have", "been", "going", "back", "regularly", "ever", "since"], "aspects": []}
+{"senid": "860", "sens": ["the", "best", "thing", "i", "tasted", "were", "the", "lambchops"], "aspects": [["lambchops", "positive"]]}
+{"senid": "411", "sens": ["great", "indian", "food", "and", "the", "service", "is", "incredible"], "aspects": [["indian food", "positive"], ["service", "positive"]]}
+{"senid": "1435", "sens": ["tried", "the", "pad", "see", "ew", "on", "the", "recommendation", "of", "the", "last", "reviewer", "since", "it's", "one", "of", "my", "favorite", "dishes"], "aspects": [["pad see ew", "neutral"], ["dishes", "positive"]]}
+{"senid": "2242", "sens": ["best", "drumsticks", "over", "rice", "and", "sour", "spicy", "soup", "in", "town"], "aspects": [["drumsticks over rice", "positive"], ["sour spicy soup", "positive"]]}
+{"senid": "957", "sens": ["make", "reservations", "but", "expect", "to", "be", "delayed", "15", "20", "minutes", "as", "the", "hosting", "staff", "was", "having", "difficulty", "seating", "guests", "who", "arrived", "with", "a", "reservation", "because", "they", "probably", "had", "a", "lot", "of", "walk", "ins", "being", "so", "close", "to", "time", "square"], "aspects": [["hosting staff", "negative"], ["reservations", "negative"], ["reservation", "neutral"], ["seating", "negative"]]}
+{"senid": "2585", "sens": ["great", "for", "a", "romantic", "evening", "or", "a", "fun", "evening", "with", "friends"], "aspects": []}
+{"senid": "252", "sens": ["i", "will", "never", "visit", "this", "restaurant", "again"], "aspects": []}
+{"senid": "305", "sens": ["this", "has", "got", "to", "be", "one", "of", "the", "most", "overrated", "restaurants", "in", "brooklyn"], "aspects": []}
+{"senid": "2787", "sens": ["indoor", "was", "very", "cozy", "and", "cute"], "aspects": [["indoor", "positive"]]}
+{"senid": "2096", "sens": ["its", "not", "curry", "in", "a", "slurry", "crap", "and", "regular", "run", "of", "the", "mill", "food"], "aspects": [["curry", "neutral"], ["food", "neutral"]]}
+{"senid": "2392", "sens": ["my", "sister", "says", "it", "reminds", "her", "of", "a", "restaurant", "run", "by", "high", "school", "students", "who", "don't", "know", "what", "they", "are", "doing"], "aspects": []}
+{"senid": "984", "sens": ["if", "you", "like", "spicy", "food", "get", "the", "chicken", "vindaloo"], "aspects": [["chicken vindaloo", "neutral"], ["spicy food", "neutral"]]}
+{"senid": "950", "sens": ["my", "husband", "and", "i", "enjoy", "sangria"], "aspects": [["sangria", "positive"]]}
+{"senid": "1122", "sens": ["it's", "very", "spicy", "but", "not", "offensive"], "aspects": []}
+{"senid": "943", "sens": ["the", "food", "is", "delicious", "and", "beautifully", "prepared", "along", "with", "the", "friendly", "and", "personable", "service"], "aspects": [["food", "positive"], ["service", "positive"]]}
+{"senid": "2260", "sens": ["to", "speak", "of", "the", "park", "side", "words", "can", "not", "describe"], "aspects": []}
+{"senid": "1927", "sens": ["we", "have", "lived", "in", "chelsea", "for", "two", "years", "and", "have", "never", "noticed", "this", "restaurant"], "aspects": []}
+{"senid": "32", "sens": ["don't", "go", "alone", "even", "two", "people", "isn't", "enough", "for", "the", "whole", "experience", "with", "pickles", "and", "a", "selection", "of", "meats", "and", "seafoods"], "aspects": [["pickles", "positive"], ["selection of meats and seafoods", "positive"]]}
+{"senid": "1786", "sens": ["that's", "good", "and", "bad"], "aspects": []}
+{"senid": "2974", "sens": ["because", "of", "the", "delicate", "thin", "crust", "take", "out", "pies", "get", "soggy", "in", "their", "boxes"], "aspects": [["take out pies", "negative"], ["crust", "negative"]]}
+{"senid": "2588", "sens": ["over", "time", "the", "food", "quality", "has", "decreased", "substantially", "it", "is", "a", "lot", "less", "crowded", "than", "it", "used", "to", "and", "the", "service", "must", "definitely", "be", "part", "of", "the", "reason"], "aspects": [["food quality", "negative"], ["service", "negative"]]}
+{"senid": "2076", "sens": ["go", "here", "for", "the", "drinks"], "aspects": [["drinks", "positive"]]}
+{"senid": "485", "sens": ["not", "a", "large", "place", "but", "it's", "cute", "and", "cozy"], "aspects": [["place", "conflict"]]}
+{"senid": "722", "sens": ["the", "bread", "at", "the", "beginning", "is", "super", "tasty", "and", "makes", "you", "want", "more", "the", "pizza", "is", "delicious", "and", "comes", "in", "personal", "sizes", "however", "be", "warned", "that", "the", "peter's", "favourite", "pizza", "with", "prosciutto", "and", "baby", "arugula", "is", "actually", "a", "margarite", "pizza", "with", "cold", "prosciutto", "and", "baby", "arugula", "on", "top", "like", "a", "salad"], "aspects": [["bread", "positive"], ["pizza", "positive"], ["margarite pizza with cold prosciutto and baby arugula on top", "neutral"], ["salad", "neutral"], ["peter's favourite pizza with prosciutto and baby arugula", "neutral"]]}
+{"senid": "2100", "sens": ["the", "bread", "is", "the", "soft", "paratha", "bread", "unlike", "the", "plain", "bread", "they", "use", "in", "calcutta", "and", "the", "stuffing", "is", "tandoori", "styled", "and", "very", "flavorful"], "aspects": [["bread", "positive"], ["paratha bread", "positive"], ["bread", "negative"], ["stuffing", "positive"], ["tandoori", "positive"]]}
+{"senid": "1161", "sens": ["my", "turkey", "burger", "was", "not", "cooked", "at", "all", "my", "friends", "salmon", "was", "completely", "raw"], "aspects": [["turkey burger", "negative"], ["salmon", "negative"]]}
+{"senid": "1464", "sens": ["if", "your", "visiting", "you'll", "enjoy", "the", "ambiance", "and", "the", "fact", "that", "it's", "in", "time", "sq"], "aspects": [["ambiance", "positive"]]}
+{"senid": "1583", "sens": ["great", "service", "great", "food"], "aspects": [["service", "positive"], ["food", "positive"]]}
+{"senid": "820", "sens": ["the", "website", "and", "rating", "makes", "this", "place", "look", "wonderful", "but", "in", "reality", "it", "was", "very", "disappointing"], "aspects": [["place", "conflict"]]}
+{"senid": "1482", "sens": ["patroon", "features", "a", "nice", "cigar", "bar", "and", "has", "great", "staff"], "aspects": [["cigar bar", "positive"], ["staff", "positive"]]}
+{"senid": "2321", "sens": ["this", "place", "is", "worth", "an", "one", "hour", "drive"], "aspects": []}
+{"senid": "126", "sens": ["but", "overall", "i", "give", "it", "a", "10"], "aspects": []}
+{"senid": "2265", "sens": ["we", "always", "get", "a", "sampling", "of", "appetizers", "and", "share"], "aspects": [["appetizers", "neutral"]]}
+{"senid": "2769", "sens": ["alone", "for", "100", "bucks", "it", "is", "really", "overprice"], "aspects": []}
+{"senid": "2430", "sens": ["perfect", "for", "dates"], "aspects": []}
+{"senid": "237", "sens": ["a", "narrow", "corridor", "leads", "to", "a", "tiny", "space", "where", "there", "are", "three", "tiny", "white", "tiled", "counters", "a", "great", "deal", "of", "mess", "stacks", "of", "bottles", "cans", "and", "a", "small", "counter", "holding", "12", "14", "entrees"], "aspects": [["corridor", "negative"], ["space", "negative"], ["counters", "negative"], ["counter", "negative"], ["entrees", "neutral"]]}
+{"senid": "418", "sens": ["especially", "liked", "chicken", "tikka", "and", "the", "naan", "and", "the", "dals"], "aspects": [["chicken tikka", "positive"], ["naan", "positive"], ["dals", "positive"]]}
+{"senid": "1794", "sens": ["three", "of", "us", "arrived", "for", "dinner", "about", "5", "30", "on", "a", "week", "night", "without", "reservations"], "aspects": [["dinner", "neutral"], ["reservations", "neutral"]]}
+{"senid": "2304", "sens": ["i", "have", "been", "a", "longtime", "fan", "of", "holy", "basil", "in", "the", "east", "village", "and", "while", "i", "do", "believe", "their", "food", "has", "slightly", "slipped", "in", "quality", "i", "have", "been", "hesitant", "to", "be", "disloyal"], "aspects": [["food", "negative"], ["quality", "negative"]]}
+{"senid": "2381", "sens": ["always", "full", "with", "tourists", "especially", "because", "of", "it's", "close", "proximity", "to", "rockefeller", "center"], "aspects": []}
+{"senid": "2262", "sens": ["the", "wine", "list", "is", "extensive", "and", "can", "easily", "hike", "up", "an", "otherwise", "reasonably", "priced", "meal"], "aspects": [["wine list", "positive"], ["meal", "positive"], ["priced", "positive"]]}
+{"senid": "518", "sens": ["also", "good", "for", "client", "lunch", "meetings", "esp"], "aspects": [["lunch meetings", "neutral"]]}
+{"senid": "1291", "sens": ["knowledge", "of", "the", "chef", "and", "the", "waitress", "are", "below", "average"], "aspects": [["chef", "negative"], ["waitress", "negative"]]}
+{"senid": "806", "sens": ["you", "can", "get", "an", "excellent", "meal", "at", "most", "of", "the", "many", "indian", "restaurants", "on", "nearby", "lexington", "avenue", "for", "the", "cost", "of", "one", "the", "dainty", "dishes", "here"], "aspects": [["meal", "positive"], ["cost", "conflict"], ["dishes", "positive"]]}
+{"senid": "2893", "sens": ["the", "food", "was", "great", "and", "the", "service", "was", "even", "better"], "aspects": [["food", "positive"], ["service", "positive"]]}
+{"senid": "2025", "sens": ["those", "rolls", "were", "big", "but", "not", "good", "and", "sashimi", "wasn't", "fresh"], "aspects": [["rolls", "conflict"], ["sashimi", "negative"]]}
+{"senid": "2302", "sens": ["we", "liked", "it", "so", "much", "that", "we", "will", "always", "make", "it", "a", "point", "to", "dine", "here", "when", "we", "visit", "new", "york"], "aspects": []}
+{"senid": "1479", "sens": ["i", "ate", "clams", "oreganta", "and", "spectacular", "salad", "with", "perfectly", "marinated", "cucumbers", "and", "tomatoes", "with", "lots", "of", "shrimp", "and", "basil"], "aspects": [["clams oreganta", "positive"], ["salad with perfectly marinated cucumbers and tomatoes with lots of shrimp and basil", "positive"]]}
+{"senid": "540", "sens": ["i", "don't", "usually", "order", "wine", "with", "indian", "so", "i", "can't", "comment", "on", "their", "wine", "list", "or", "their", "wines"], "aspects": [["wine", "neutral"], ["indian", "neutral"], ["wine list", "neutral"], ["wines", "neutral"]]}
+{"senid": "517", "sens": ["the", "pizza", "is", "delicious", "and", "the", "proprietor", "is", "one", "of", "the", "nicest", "in", "nyc"], "aspects": [["pizza", "positive"], ["proprietor", "positive"]]}
+{"senid": "1462", "sens": ["i", "have", "eaten", "at", "saul", "many", "times", "the", "food", "is", "always", "consistently", "outrageously", "good"], "aspects": [["food", "positive"]]}
+{"senid": "120", "sens": ["we", "have", "been", "to", "montparnasse", "many", "times", "and", "return", "often", "for", "good", "reason"], "aspects": []}
+{"senid": "892", "sens": ["i'm", "from", "england", "and", "haru's", "was", "the", "best", "i", "had", "in", "nyc"], "aspects": []}
+{"senid": "1897", "sens": ["everything", "is", "excellent", "the", "menu", "is", "quite", "extensive", "and", "you", "eat", "with", "a", "view", "on", "both", "sides", "of", "the", "city"], "aspects": [["menu", "positive"], ["view", "positive"]]}
+{"senid": "1114", "sens": ["however", "looking", "at", "the", "table", "next", "to", "ours", "we", "both", "sort", "of", "wished", "we", "had", "ordered", "pizza", "which", "looked", "perrrrrrrrrfect"], "aspects": [["pizza", "positive"]]}
+{"senid": "307", "sens": ["went", "there", "last", "night", "for", "2", "year", "anniversery", "and", "wasn't", "all", "that", "impressed"], "aspects": []}
+{"senid": "1526", "sens": ["to", "celebrate", "a", "birthday", "three", "of", "us", "went", "to", "mare", "anticipating", "great", "food"], "aspects": [["food", "neutral"]]}
+{"senid": "1681", "sens": ["my", "wife", "had", "the", "fried", "shrimp", "which", "are", "huge", "and", "loved", "it"], "aspects": [["fried shrimp", "positive"]]}
+{"senid": "1407", "sens": ["i", "just", "don't", "understand", "all", "the", "hype"], "aspects": []}
+{"senid": "65", "sens": ["the", "food", "was", "well", "prepared", "and", "the", "service", "impecable"], "aspects": [["food", "positive"], ["service", "positive"]]}
+{"senid": "321", "sens": ["i", "will", "be", "going", "back", "very", "soon"], "aspects": []}
+{"senid": "76", "sens": ["frankly", "when", "you", "compare", "what", "you", "can", "have", "here", "for", "lunch", "versus", "mcds", "or", "so", "many", "other", "sandwich", "shops", "in", "the", "city", "there", "is", "no", "comparison"], "aspects": []}
+{"senid": "922", "sens": ["the", "sushi", "was", "awful"], "aspects": [["sushi", "negative"]]}
+{"senid": "384", "sens": ["mmmmm", "it", "was", "delicious"], "aspects": []}
+{"senid": "729", "sens": ["my", "boyfriend", "and", "i", "went", "there", "to", "celebrate", "my", "birthday", "the", "other", "night", "and", "all", "i", "can", "say", "is", "that", "it", "was", "magnificent"], "aspects": []}
+{"senid": "704", "sens": ["what", "a", "great", "place"], "aspects": [["place", "positive"]]}
+{"senid": "1284", "sens": ["the", "pizza", "was", "pretty", "good", "and", "huge"], "aspects": [["pizza", "positive"], ["pizza", "positive"]]}
+{"senid": "698", "sens": ["pizza", "here", "is", "consistently", "good"], "aspects": [["pizza", "positive"]]}
+{"senid": "213", "sens": ["rude", "service", "medicore", "food", "there", "are", "tons", "of", "restaurants", "in", "ny", "stay", "away", "from", "this", "one"], "aspects": [["service", "negative"], ["food", "neutral"]]}
+{"senid": "373", "sens": ["you", "are", "not", "eating", "haut", "cuisine", "with", "subtle", "hints", "of", "whatever", "but", "cassuolet", "steake", "fritte", "tripe", "stew", "etc", "simple", "stuff"], "aspects": []}
+{"senid": "560", "sens": ["i", "have", "known", "about", "this", "secret", "for", "the", "last", "13", "years", "emilio", "the", "godfather", "has", "continued", "to", "serve", "food", "and", "wine", "for", "the", "gods", "at", "mortal", "prices"], "aspects": [["food", "positive"], ["wine", "positive"], ["food", "positive"], ["wine", "positive"]]}
+{"senid": "1160", "sens": ["the", "mussles", "were", "the", "fishiest", "things", "i've", "ever", "tasted", "the", "seabass", "was", "bland", "the", "goat", "cheese", "salad", "was", "missing", "the", "goat", "cheese", "the", "penne", "w", "chicken", "had", "bones", "in", "it", "it", "was", "disgusting"], "aspects": [["mussles", "negative"], ["seabass", "negative"], ["goat cheese salad", "negative"], ["penne w chicken", "negative"]]}
+{"senid": "902", "sens": ["also", "don't", "plan", "on", "asking", "for", "your", "favorite", "roll", "if", "it's", "not", "on", "the", "menu", "you", "can't", "have", "it"], "aspects": []}
+{"senid": "157", "sens": ["the", "place", "is", "small", "and", "cramped", "but", "the", "food", "is", "fantastic"], "aspects": [["place", "negative"], ["food", "positive"]]}
+{"senid": "3", "sens": ["they", "never", "brought", "us", "complimentary", "noodles", "ignored", "repeated", "requests", "for", "sugar", "and", "threw", "our", "dishes", "on", "the", "table"], "aspects": []}
+{"senid": "1091", "sens": ["i", "really", "liked", "this", "place"], "aspects": [["place", "positive"]]}
+{"senid": "409", "sens": ["we", "ordered", "some", "beef", "and", "noodle", "soup", "dishes", "from", "the", "thai", "section", "of", "the", "menu", "but", "nothing", "we", "got", "was", "thai"], "aspects": [["beef and noodle soup dishes", "negative"]]}
+{"senid": "1295", "sens": ["i", "love", "it"], "aspects": []}
+{"senid": "1223", "sens": ["just", "make", "sure", "my", "ice", "water", "is", "kept", "full", "and", "my", "tea", "kettle", "filled", "with", "piping", "hot", "tea", "and", "that's", "all", "the", "service", "i", "need"], "aspects": []}
+{"senid": "193", "sens": ["moules", "were", "excellent", "lobster", "ravioli", "was", "very", "salty"], "aspects": [["moules", "positive"], ["lobster ravioli", "negative"]]}
+{"senid": "1029", "sens": ["it's", "a", "perfect", "place", "to", "have", "a", "amanzing", "indian", "food"], "aspects": [["indian food", "positive"]]}
+{"senid": "737", "sens": ["my", "friends", "and", "i", "were", "on", "vacation", "in", "ny", "and", "was", "referred", "to", "chance", "by", "a", "friend"], "aspects": []}
+{"senid": "195", "sens": ["told", "us", "to", "sit", "anywhere", "and", "when", "we", "sat", "he", "said", "the", "table", "was", "reserved"], "aspects": []}
+{"senid": "746", "sens": ["but", "the", "service", "was", "a", "bit", "slow"], "aspects": [["service", "negative"]]}
+{"senid": "598", "sens": ["first", "of", "all", "dal", "bukhara", "rocks"], "aspects": [["dal bukhara", "positive"]]}
+{"senid": "779", "sens": ["highly", "recommended"], "aspects": []}
+{"senid": "1075", "sens": ["it", "is", "expensive", "but", "well", "worth", "the", "money"], "aspects": []}
+{"senid": "462", "sens": ["my", "wife", "and", "i", "ate", "here", "earlier", "this", "week", "and", "have", "not", "stopped", "ranting", "and", "raving", "about", "the", "food"], "aspects": [["food", "positive"]]}
+{"senid": "341", "sens": ["although", "we", "were", "looking", "for", "regular", "lettuce", "and", "some", "walnuts", "the", "salads", "we", "got", "were", "great"], "aspects": [["salads", "positive"]]}
+{"senid": "332", "sens": ["great", "vibe", "lots", "of", "people"], "aspects": [["vibe", "positive"]]}
+{"senid": "844", "sens": ["the", "blond", "wood", "decor", "is", "very", "soothing", "the", "premium", "sake", "is", "excellent", "and", "the", "service", "is", "great"], "aspects": [["blond wood decor", "positive"], ["premium sake", "positive"], ["service", "positive"]]}
+{"senid": "901", "sens": ["this", "place", "is", "not", "worth", "the", "prices"], "aspects": [["place", "negative"], ["place", "negative"]]}
+{"senid": "719", "sens": ["i", "think", "that", "it", "is", "absolutely", "brilliant", "and", "well", "runned", "business", "operation"], "aspects": []}
+{"senid": "244", "sens": ["the", "staff", "is", "no", "nonsense"], "aspects": [["staff", "positive"]]}
+{"senid": "1105", "sens": ["i", "can't", "wait", "for", "summer", "when", "they", "serve", "outside", "on", "their", "gigantic", "patio"], "aspects": [["patio", "positive"]]}
+{"senid": "89", "sens": ["this", "tiny", "restaurant", "is", "as", "cozy", "as", "it", "gets", "with", "that", "certain", "parisian", "flair"], "aspects": [["restaurant", "positive"]]}
+{"senid": "923", "sens": ["the", "rice", "was", "poor", "quality", "and", "was", "cooked", "so", "badly", "it", "was", "hard"], "aspects": [["rice", "negative"]]}
+{"senid": "757", "sens": ["also", "they", "were", "$15", "each"], "aspects": []}
+{"senid": "1141", "sens": ["went", "to", "ottimo", "and", "was", "expecting", "outstanding", "pizza", "as", "i", "love", "la", "pizza", "fresca"], "aspects": []}
+{"senid": "1089", "sens": ["they", "should", "have", "called", "it", "mascarpone", "with", "chocolate", "chips", "good", "but", "a", "far", "cry", "from", "what", "the", "name", "implies"], "aspects": []}
+{"senid": "269", "sens": ["the", "first", "time", "i", "went", "and", "was", "completely", "taken", "by", "the", "live", "jazz", "band", "and", "atmosphere", "i", "ordered", "the", "lobster", "cobb", "salad"], "aspects": [["live jazz band", "positive"], ["atmosphere", "positive"]]}
+{"senid": "1296", "sens": ["i", "plan", "on", "stopping", "by", "next", "week", "as", "well"], "aspects": []}
+{"senid": "1096", "sens": ["it's", "great", "to", "go", "for", "a", "quick", "lunch", "either", "alone", "or", "with", "a", "friend"], "aspects": []}
+{"senid": "899", "sens": ["don't", "be", "fooled", "by", "crowds", "of", "people"], "aspects": []}
+{"senid": "1079", "sens": ["wonderful", "at", "holiday", "time"], "aspects": []}
+{"senid": "640", "sens": ["overall", "not", "worth", "the", "money"], "aspects": []}
+{"senid": "1293", "sens": ["interesting", "selection", "good", "wines", "service", "fine", "fun", "decor"], "aspects": [["wines", "positive"], ["service", "positive"], ["decor", "positive"], ["selection", "positive"]]}
+{"senid": "955", "sens": ["the", "place", "was", "quiet", "and", "delightful"], "aspects": [["place", "positive"]]}
+{"senid": "346", "sens": ["the", "spicy", "tuna", "roll", "is", "huge", "and", "probably", "the", "best", "that", "i've", "had", "at", "this", "price", "range"], "aspects": [["spicy tuna roll", "positive"], ["spicy tuna roll", "positive"], ["spicy tuna roll", "positive"]]}
+{"senid": "1086", "sens": ["the", "porcini", "mushroom", "pasta", "special", "was", "tasteless", "so", "was", "the", "seafood", "tagliatelle"], "aspects": [["porcini mushroom pasta special", "negative"], ["seafood tagliatelle", "negative"]]}
+{"senid": "1121", "sens": ["after", "hearing", "a", "lot", "of", "great", "things", "about", "the", "restaurant", "and", "passing", "by", "it", "on", "a", "daily", "basis", "we", "decided", "to", "try"], "aspects": []}
+{"senid": "744", "sens": ["the", "food", "was", "good"], "aspects": [["food", "positive"]]}
+{"senid": "799", "sens": ["an", "excellent", "service"], "aspects": [["service", "positive"]]}
+{"senid": "730", "sens": ["from", "the", "spectacular", "caviar", "to", "the", "hospitable", "waitstaff", "i", "felt", "like", "royalty", "and", "enjoyed", "every", "second", "of", "it"], "aspects": [["caviar", "positive"], ["waitstaff", "positive"]]}
+{"senid": "465", "sens": ["we", "will", "definitely", "go", "back"], "aspects": []}
+{"senid": "612", "sens": ["honestly", "the", "worst", "sushi", "my", "husband", "and", "i", "had", "in", "our", "entire", "lives"], "aspects": [["sushi", "negative"]]}
+{"senid": "848", "sens": ["not", "only", "is", "the", "cuisine", "the", "best", "around", "the", "service", "has", "always", "been", "attentive", "and", "charming"], "aspects": [["cuisine", "positive"], ["service", "positive"]]}
+{"senid": "512", "sens": ["delivery", "is", "fast", "too"], "aspects": [["delivery", "positive"]]}
+{"senid": "765", "sens": ["the", "pesto", "pizza", "was", "excellent", "thin", "crust", "pizza", "with", "a", "nice", "amount", "of", "spicy", "italian", "cheese", "that", "i'd", "never", "heard", "of", "before"], "aspects": [["pesto pizza", "positive"], ["spicy italian cheese", "positive"]]}
+{"senid": "661", "sens": ["the", "only", "fallback", "on", "this", "restaurant", "is", "the", "prices"], "aspects": [["restaurant", "negative"]]}
+{"senid": "1153", "sens": ["faan", "is", "sooo", "good"], "aspects": [["faan", "positive"]]}
+{"senid": "581", "sens": ["but", "the", "staff", "was", "so", "horrible", "to", "us"], "aspects": [["staff", "negative"]]}
+{"senid": "753", "sens": ["i", "would", "recommend", "roxy's", "for", "that", "but", "not", "for", "their", "food"], "aspects": [["food", "negative"]]}
+{"senid": "1044", "sens": ["downtown", "dinner", "2002", "prixe", "fix", "appetizers", "were", "ok", "waiter", "gave", "me", "poor", "suggestion", "try", "the", "potato", "stuff", "kanish", "best", "one"], "aspects": [["appetizers", "neutral"], ["waiter", "negative"], ["potato stuff kanish", "positive"]]}
+{"senid": "819", "sens": ["by", "far", "the", "best", "pizza", "in", "manhattan"], "aspects": [["pizza", "positive"]]}
+{"senid": "1202", "sens": ["not", "worth", "it"], "aspects": []}
+{"senid": "1182", "sens": ["the", "portions", "are", "huge", "so", "it", "might", "be", "good", "to", "order", "three", "things", "to", "split", "rather", "than", "one", "appetizer", "and", "entree", "per", "person", "for", "two", "people"], "aspects": [["portions", "neutral"]]}
+{"senid": "253", "sens": ["aside", "from", "the", "sea", "urchin", "the", "chef", "recommended", "an", "assortment", "of", "fish", "including", "fatty", "yellow", "tail", "boton", "shrimp", "blue", "fin", "torro", "fatty", "tuna", "sea", "eel", "etc"], "aspects": []}
+{"senid": "1111", "sens": ["they", "all", "know", "you"], "aspects": []}
+{"senid": "832", "sens": ["it's", "to", "die", "for"], "aspects": []}
+{"senid": "53", "sens": ["food", "is", "great"], "aspects": [["food", "positive"]]}
+{"senid": "687", "sens": ["definitely", "a", "neighborhood", "favorite"], "aspects": []}
+{"senid": "1173", "sens": ["my", "fav", "was", "the", "sassy", "lassi"], "aspects": [["sassy lassi", "positive"]]}
+{"senid": "1119", "sens": ["the", "food", "is", "great", "and", "they", "have", "a", "good", "selecion", "of", "wines", "at", "reasonable", "prices"], "aspects": [["food", "positive"], ["wines", "positive"], ["wines", "positive"]]}
+{"senid": "525", "sens": ["zero", "ambiance", "to", "boot"], "aspects": [["ambiance", "negative"]]}
+{"senid": "130", "sens": ["i", "just", "don't", "understand", "all", "the", "hype"], "aspects": []}
+{"senid": "860", "sens": ["the", "cold", "appetizer", "dishes", "taste", "like", "the", "way", "i", "remember", "them", "to", "taste", "when", "i", "was", "growing", "up", "in", "taiwan"], "aspects": [["cold appetizer dishes", "positive"]]}
+{"senid": "104", "sens": ["worth", "the", "trip", "from", "manhattan"], "aspects": []}
+{"senid": "1179", "sens": ["the", "food's", "as", "good", "as", "ever"], "aspects": [["food", "positive"]]}
+{"senid": "95", "sens": ["it", "looked", "like", "shredded", "cheese", "partly", "done", "still", "in", "strips"], "aspects": []}
+{"senid": "520", "sens": ["highly", "recommended", "to", "all"], "aspects": []}
+{"senid": "275", "sens": ["the", "restaurant", "is", "cute", "but", "not", "upscale"], "aspects": [["restaurant", "neutral"]]}
+{"senid": "596", "sens": ["try", "the", "sea", "bass"], "aspects": [["sea bass", "positive"]]}
+{"senid": "791", "sens": ["definitely", "a", "great", "spot", "for", "a", "nice", "occasion", "or", "date"], "aspects": [["spot", "positive"]]}
+{"senid": "140", "sens": ["but", "the", "pizza", "is", "way", "to", "expensive"], "aspects": [["pizza", "negative"]]}
+{"senid": "372", "sens": ["and", "where", "does", "patis", "go", "wrong", "no", "where"], "aspects": [["patis", "positive"]]}
+{"senid": "273", "sens": ["if", "we", "were", "to", "move", "from", "the", "upper", "east", "side", "we", "would", "genuinely", "miss", "this", "restaurant"], "aspects": [["restaurant", "positive"]]}
+{"senid": "862", "sens": ["kind", "attentive", "wait", "staff"], "aspects": [["wait staff", "positive"]]}
+{"senid": "410", "sens": ["we", "were", "very", "disappointed"], "aspects": []}
+{"senid": "897", "sens": ["but", "who", "says", "murray's", "is", "anything", "about", "service"], "aspects": [["service", "negative"]]}
+{"senid": "886", "sens": ["the", "food", "is", "good", "especially", "their", "more", "basic", "dishes", "and", "the", "drinks", "are", "delicious"], "aspects": [["food", "positive"], ["basic dishes", "positive"], ["drinks", "positive"]]}
+{"senid": "1146", "sens": ["service", "however", "was", "excellent", "and", "i", "liked", "the", "setting", "atmosphere", "a", "lot"], "aspects": [["service", "positive"], ["setting atmosphere", "positive"]]}
+{"senid": "554", "sens": ["molto", "bene"], "aspects": []}
+{"senid": "175", "sens": ["first", "went", "here", "to", "enjoy", "their", "garden", "terrace"], "aspects": [["garden terrace", "positive"]]}
+{"senid": "812", "sens": ["you", "cannot", "go", "wrong", "with", "this", "place"], "aspects": [["place", "positive"]]}
+{"senid": "187", "sens": ["i've", "been", "there", "three", "times", "and", "have", "always", "had", "wonderful", "experiences"], "aspects": []}
+{"senid": "236", "sens": ["over", "100", "different", "choices", "to", "create", "your", "own"], "aspects": []}
+{"senid": "652", "sens": ["lloovve", "this", "place"], "aspects": [["place", "positive"]]}
+{"senid": "1228", "sens": ["even", "the", "wine", "by", "the", "glass", "was", "good"], "aspects": [["wine by the glass", "positive"]]}
+{"senid": "601", "sens": ["i", "am", "happy", "i", "did", "the", "food", "was", "awsome"], "aspects": [["food", "positive"]]}
+{"senid": "487", "sens": ["the", "staff", "was", "the", "friendliest", "that", "have", "seen", "in", "new", "york"], "aspects": [["staff", "positive"]]}
+{"senid": "1080", "sens": ["cozy", "romantic", "atomosphere", "with", "only", "around", "15", "tables", "at", "most"], "aspects": [["atomosphere", "positive"]]}
+{"senid": "499", "sens": ["however", "i", "think", "jeckll", "and", "hydes", "t", "is", "one", "of", "those", "places", "that", "is", "fun", "to", "do", "once"], "aspects": [["jeckll and hydes", "positive"]]}
+{"senid": "296", "sens": ["the", "workers", "there", "also", "absolutely", "load", "the", "bagel", "with", "cream", "cheese", "gets", "a", "little", "messy"], "aspects": [["bagel", "negative"]]}
+{"senid": "242", "sens": ["we", "will", "return", "many", "times", "for", "this", "oasis", "in", "mid", "town"], "aspects": []}
+{"senid": "112", "sens": ["the", "signs", "the", "specials", "menus", "food", "and", "even", "all", "the", "waitstaff", "are", "all", "totally", "japanese"], "aspects": [["signs", "positive"], ["specials menus", "positive"], ["food", "positive"], ["waitstaff", "positive"]]}
+{"senid": "917", "sens": ["i", "asked", "for", "an", "open", "faced", "cheese", "sandwich", "and", "the", "manager", "basically", "told", "me", "to", "take", "my", "business", "elsewhere"], "aspects": [["manager", "negative"]]}
+{"senid": "212", "sens": ["such", "a", "disappointment"], "aspects": []}
+{"senid": "546", "sens": ["try", "green", "curry", "with", "vegetables"], "aspects": [["green curry with vegetables", "positive"]]}
+{"senid": "993", "sens": ["2", "egg", "custards", "and", "pork", "buns", "at", "either", "bakery", "on", "west", "side", "of", "mott", "street", "just", "south", "of", "canal"], "aspects": []}
+{"senid": "754", "sens": ["my", "son", "and", "his", "girlfriend", "both", "wanted", "cheeseburgers", "and", "they", "were", "huge"], "aspects": [["cheeseburgers", "neutral"]]}
+{"senid": "1052", "sens": ["fantastic", "place"], "aspects": [["place", "positive"]]}
+{"senid": "1102", "sens": ["when", "i'm", "feeling", "stressed", "by", "the", "noise", "and", "congestion", "around", "my", "office", "i", "head", "for", "cafe", "st", "bart's"], "aspects": []}
+{"senid": "619", "sens": ["wont", "come", "back", "again", "for", "sure"], "aspects": []}
+{"senid": "219", "sens": ["the", "tuna", "and", "wasabe", "potatoes", "are", "excellent"], "aspects": [["tuna", "positive"], ["wasabe potatoes", "positive"]]}
+{"senid": "659", "sens": ["the", "lobster", "sandwich", "is", "good", "and", "the", "spaghetti", "with", "scallops", "and", "shrimp", "is", "great"], "aspects": [["lobster sandwich", "positive"], ["spaghetti with scallops and shrimp", "positive"]]}
+{"senid": "476", "sens": ["the", "menu", "is", "very", "limited", "i", "think", "we", "counted", "4", "or", "5", "entrees"], "aspects": [["menu", "negative"]]}
+{"senid": "211", "sens": ["then", "to", "top", "things", "off", "she", "dropped", "used", "silverware", "on", "my", "boyfriend's", "jacket", "and", "did", "not", "stop", "to", "apologize", "or", "clean", "the", "mess", "that", "was", "left", "on", "clothes"], "aspects": []}
+{"senid": "311", "sens": ["okay", "i", "don't", "mind", "the", "oily", "part", "cause", "most", "are", "cooked", "that", "way", "but", "it", "was", "way", "too", "bland"], "aspects": []}
+{"senid": "1596", "sens": ["this", "place", "survives", "on", "reputation", "alone"], "aspects": [["place", "negative"]]}
+{"senid": "1750", "sens": ["not", "one", "to", "jump", "to", "complaints", "hence", "my", "lack", "of", "previous", "online", "reviewing", "i", "called", "the", "restaurant", "to", "give", "them", "a", "heads", "up", "that", "their", "kitchen", "might", "want", "to", "check", "the", "cleanliness", "of", "their", "prep", "stations"], "aspects": []}
+{"senid": "1019", "sens": ["the", "food", "is", "decent", "at", "best", "and", "the", "ambience", "well", "it's", "a", "matter", "of", "opinion", "some", "may", "consider", "it", "to", "be", "a", "sweet", "thing", "i", "thought", "it", "was", "just", "annoying"], "aspects": [["food", "negative"], ["ambience", "negative"]]}
+{"senid": "1928", "sens": ["again", "i'd", "be", "super", "upset", "if", "that", "were", "my", "employee"], "aspects": []}
+{"senid": "388", "sens": ["we", "have", "lived", "in", "chelsea", "for", "two", "years", "and", "have", "never", "noticed", "this", "restaurant"], "aspects": []}
+{"senid": "422", "sens": ["the", "tables", "are", "crammed", "way", "too", "close", "the", "menu", "is", "typical", "of", "any", "italian", "restaurant", "and", "the", "wine", "list", "is", "simply", "overpriced"], "aspects": [["tables", "negative"], ["menu", "neutral"], ["wine list", "negative"]]}
+{"senid": "1883", "sens": ["no", "desert", "menu", "no", "apology", "nothing"], "aspects": []}
+{"senid": "729", "sens": ["my", "boyfriend", "and", "i", "went", "there", "to", "celebrate", "my", "birthday", "the", "other", "night", "and", "all", "i", "can", "say", "is", "that", "it", "was", "magnificent"], "aspects": []}
+{"senid": "3", "sens": ["they", "never", "brought", "us", "complimentary", "noodles", "ignored", "repeated", "requests", "for", "sugar", "and", "threw", "our", "dishes", "on", "the", "table"], "aspects": []}
+{"senid": "573", "sens": ["i", "can't", "believe", "people", "complain", "about", "no", "cheese", "sticks"], "aspects": []}
+{"senid": "515", "sens": ["growing", "up", "in", "ny", "i", "have", "eaten", "my", "share", "of", "bagels"], "aspects": []}
+{"senid": "205", "sens": ["the", "staff", "is", "incredibly", "helpful", "and", "attentive"], "aspects": [["staff", "positive"]]}
+{"senid": "1214", "sens": ["everyone", "was", "more", "then", "happy", "with", "his", "choices"], "aspects": []}
+{"senid": "114", "sens": ["i", "am", "so", "coming", "back", "here", "again", "as", "much", "as", "i", "can"], "aspects": []}
+{"senid": "648", "sens": ["patroon", "features", "a", "nice", "cigar", "bar", "and", "has", "great", "staff"], "aspects": [["cigar bar", "positive"], ["staff", "positive"]]}
+{"senid": "37", "sens": ["we", "love", "th", "pink", "pony"], "aspects": [["pink pony", "positive"]]}
+{"senid": "760", "sens": ["this", "place", "is", "really", "trendi", "but", "they", "have", "forgotten", "about", "the", "most", "important", "part", "of", "a", "restaurant", "the", "food"], "aspects": [["food", "negative"], ["place", "positive"]]}
+{"senid": "1148", "sens": ["this", "place", "is", "a", "great", "bargain"], "aspects": [["place", "positive"]]}
+{"senid": "265", "sens": ["food", "is", "usually", "very", "good", "though", "ocasionally", "i", "wondered", "about", "freshmess", "of", "raw", "vegatables", "in", "side", "orders"], "aspects": [["food", "positive"], ["raw vegatables in side orders", "negative"]]}
+{"senid": "1919", "sens": ["we", "live", "nearby", "bfc"], "aspects": []}
+{"senid": "110", "sens": ["as", "a", "japanese", "native", "i've", "lived", "in", "the", "tristate", "area", "for", "over", "8", "years", "but", "i", "was", "just", "so", "amazed", "at", "this", "place"], "aspects": [["place", "positive"]]}
+{"senid": "920", "sens": ["the", "worst", "excuse", "for", "japanese", "food", "i've", "ever", "encountered"], "aspects": [["japanese food", "negative"]]}
+{"senid": "261", "sens": ["traditional", "french", "decour", "was", "pleasant", "though", "the", "hall", "was", "rather", "noisy", "the", "restaurant", "was", "full", "and", "we", "had", "to", "raise", "our", "voices", "to", "be", "able", "to", "maintain", "a", "conversation"], "aspects": [["traditional french decour", "positive"], ["hall", "negative"]]}
+{"senid": "1991", "sens": ["the", "food", "is", "good"], "aspects": [["food", "positive"]]}
+{"senid": "958", "sens": ["it", "is", "definitely", "a", "good", "spot", "for", "snacks", "and", "chat"], "aspects": [["spot", "positive"]]}
+{"senid": "600", "sens": ["but", "ive", "heard", "a", "lot", "about", "this", "for", "the", "past", "2", "yrs", "and", "finally", "decided", "to", "eat", "here"], "aspects": []}
+{"senid": "1494", "sens": ["everyone", "was", "cheerfully", "cooperative", "and", "helpful"], "aspects": []}
+{"senid": "1569", "sens": ["sushi", "experience", "was", "unbelievable", "with", "my", "fiance"], "aspects": [["sushi", "positive"]]}
+{"senid": "486", "sens": ["and", "really", "large", "portions"], "aspects": [["portions", "positive"]]}
+{"senid": "1923", "sens": ["the", "frizzy", "retro", "girl", "with", "winged", "dame", "edna", "glasses", "will", "yell", "at", "you", "if", "you", "try", "to", "order", "a", "drink"], "aspects": [["girl", "negative"]]}
+{"senid": "1216", "sens": ["obviously", "the", "chinese", "translation", "of", "this", "place", "does", "not", "mean", "big", "wong", "it", "actually", "means", "great", "prosperity"], "aspects": []}
+{"senid": "179", "sens": ["great", "wine", "selection", "gigondas", "is", "worth", "the", "price", "and", "the", "house", "champagne", "is", "a", "great", "value"], "aspects": [["wine selection", "positive"], ["gigondas", "positive"], ["house champagne", "positive"]]}
+{"senid": "1742", "sens": ["bukhara", "is", "on", "my", "top", "5", "indian", "places", "in", "nyc"], "aspects": [["bukhara", "positive"]]}
+{"senid": "1608", "sens": ["my", "bf", "and", "i", "go", "to", "the", "walk", "up", "counter", "and", "order", "a", "pie"], "aspects": []}
+{"senid": "626", "sens": ["i", "had", "their", "eggs", "benedict", "for", "brunch", "which", "were", "the", "worst", "in", "my", "entire", "life", "i", "tried", "removing", "the", "hollondaise", "sauce", "completely", "that", "was", "how", "failed", "it", "was"], "aspects": [["eggs benedict", "negative"]]}
+{"senid": "455", "sens": ["i", "had", "filet", "mignon", "with", "garlic", "mash"], "aspects": []}
+{"senid": "873", "sens": ["they're", "rude", "at", "times", "and", "not", "very", "friendly"], "aspects": []}
+{"senid": "894", "sens": ["i", "complete", "the", "total", "bagel", "experience", "by", "having", "it", "lightly", "toasted"], "aspects": []}
+{"senid": "1380", "sens": ["its", "just", "a", "fun", "place", "to", "go", "not", "a", "five", "star", "restaraunt"], "aspects": [["restaraunt", "neutral"]]}
+{"senid": "868", "sens": ["this", "is", "a", "nice", "pizza", "place", "with", "good", "selection", "of", "thin", "crust", "pizza", "including", "the", "basil", "slice"], "aspects": [["selection of thin crust pizza", "positive"], ["selection of thin crust pizza", "positive"], ["pizza place", "positive"], ["basil slice", "positive"]]}
+{"senid": "83", "sens": ["the", "ambience", "is", "pretty", "and", "nice", "for", "conversation", "so", "a", "casual", "lunch", "here", "would", "probably", "be", "best"], "aspects": [["ambience", "positive"]]}
+{"senid": "1122", "sens": ["we", "were", "less", "than", "impressed"], "aspects": []}
+{"senid": "984", "sens": ["if", "you're", "daring", "try", "the", "balsamic", "vinegar", "over", "icecream", "it's", "wonderful"], "aspects": [["balsamic vinegar over icecream", "positive"]]}
+{"senid": "104", "sens": ["worth", "the", "trip", "from", "manhattan"], "aspects": []}
+{"senid": "650", "sens": ["this", "is", "a", "nice", "restaurant", "if", "you", "are", "looking", "for", "a", "good", "place", "to", "host", "an", "intimate", "dinner", "meeting", "with", "business", "associates"], "aspects": [["restaurant", "positive"]]}
+{"senid": "671", "sens": ["we", "ate", "at", "this", "thai", "place", "following", "the", "reviews", "but", "very", "unhappy", "with", "the", "foods"], "aspects": [["foods", "negative"]]}
+{"senid": "384", "sens": ["mmmmm", "it", "was", "delicious"], "aspects": []}
+{"senid": "314", "sens": ["it's", "boring", "on", "the", "inside", "and", "our", "sushi", "was", "pretty", "below", "average", "the", "tuna", "was", "soggy", "and", "the", "other", "rolls", "had", "no", "flavor"], "aspects": [["sushi", "negative"], ["tuna", "negative"], ["rolls", "negative"]]}
+{"senid": "767", "sens": ["the", "back", "garden", "sitting", "area", "is", "very", "pleasant", "where", "you", "can", "see", "their", "personal", "herb", "garden"], "aspects": [["back garden sitting area", "positive"]]}
+{"senid": "292", "sens": ["our", "first", "time", "in", "new", "york", "and", "we", "had", "to", "try", "a", "new", "york", "bagel"], "aspects": []}
+{"senid": "1145", "sens": ["not", "enough", "wines", "by", "the", "glass", "either"], "aspects": [["wines by the glass", "negative"]]}
+{"senid": "497", "sens": ["the", "food", "however", "is", "what", "one", "might", "expect"], "aspects": [["food", "negative"]]}
+{"senid": "1830", "sens": ["the", "family", "seafood", "entree", "was", "very", "good"], "aspects": [["family seafood entree", "positive"]]}
+{"senid": "1896", "sens": ["you", "know", "what", "i", "mean", "all", "the", "positives", "things", "happening", "there", "made", "mw", "write", "this", "review"], "aspects": []}
+{"senid": "153", "sens": ["located", "at", "the", "end", "of", "a", "magnificent", "block"], "aspects": [["block", "positive"]]}
+{"senid": "1187", "sens": ["the", "service", "is", "good", "and", "the", "resturant", "is", "clean"], "aspects": [["service", "positive"], ["resturant", "positive"]]}
+{"senid": "1676", "sens": ["we", "went", "to", "celebrate", "two", "birthdays", "and", "wanted", "to", "do", "something", "special", "and", "different"], "aspects": []}
+{"senid": "453", "sens": ["i", "had", "lobster", "bisque", "it", "has", "2", "oz", "of", "maine", "lobster", "in", "it"], "aspects": [["lobster bisque", "positive"]]}
+{"senid": "255", "sens": ["all", "in", "all", "this", "midtown", "gem", "instantly", "became", "one", "of", "my", "favorite", "sushi", "restaurants", "in", "the", "city"], "aspects": []}
+{"senid": "668", "sens": ["when", "my", "dessert", "came", "there", "was", "a", "candle", "in", "it", "not", "because", "anyone", "asked", "for", "one", "but", "because", "the", "waiter", "must", "have", "seen", "me", "opening", "my", "birthday", "card", "and", "gift", "and", "said", "he", "knew", "it", "was", "a", "special", "occassion", "of", "some", "sort"], "aspects": [["waiter", "positive"]]}
+{"senid": "1431", "sens": ["save", "your", "money", "and", "your", "time", "and", "go", "somewhere", "else"], "aspects": []}
+{"senid": "1042", "sens": ["the", "waiter", "was", "attentive"], "aspects": [["waiter", "positive"]]}
+{"senid": "1704", "sens": ["don't", "go", "with", "a", "larger", "group", "than", "4"], "aspects": []}
+{"senid": "1337", "sens": ["we", "had", "fun", "eating", "in", "there", "we", "were", "there", "like", "around", "3", "a", "m", "in", "the", "morning"], "aspects": []}
+{"senid": "1383", "sens": ["had", "no", "flavor", "and", "the", "staff", "is", "rude", "and", "not", "attentive"], "aspects": [["staff", "negative"]]}
+{"senid": "967", "sens": ["its", "location", "is", "good", "and", "the", "fact", "that", "hutner", "college", "is", "near", "and", "their", "prices", "are", "very", "reasonable", "makes", "students", "go", "back", "to", "suan", "again", "and", "again"], "aspects": [["location", "positive"], ["suan", "positive"]]}
+{"senid": "1617", "sens": ["helpful", "service", "and", "average", "price", "per", "dish", "$10"], "aspects": [["service", "positive"], ["dish", "positive"]]}
+{"senid": "552", "sens": ["moderate", "prices"], "aspects": []}
+{"senid": "649", "sens": ["the", "food", "is", "tasty", "and", "portion", "sizes", "are", "appropriate"], "aspects": [["food", "positive"], ["portion sizes", "positive"]]}
+{"senid": "786", "sens": ["also", "very", "inexpensive"], "aspects": []}
+{"senid": "528", "sens": ["the", "ambience", "was", "nice", "but", "service", "wasn't", "so", "great"], "aspects": [["ambience", "positive"], ["service", "negative"]]}
+{"senid": "54", "sens": ["service", "is", "top", "notch"], "aspects": [["service", "positive"]]}
+{"senid": "826", "sens": ["the", "fish", "was", "really", "really", "fresh"], "aspects": [["fish", "positive"]]}
+{"senid": "1029", "sens": ["it's", "a", "perfect", "place", "to", "have", "a", "amanzing", "indian", "food"], "aspects": [["indian food", "positive"]]}
+{"senid": "912", "sens": ["they", "even", "scoop", "it", "out", "nice", "for", "those", "on", "a", "diet", "not", "too", "much", "not", "to", "little"], "aspects": []}
+{"senid": "1535", "sens": ["amazing", "fresh", "dogs", "but", "best", "of", "all", "endless", "toppings"], "aspects": [["dogs", "positive"], ["toppings", "positive"]]}
+{"senid": "28", "sens": ["the", "only", "thing", "i", "moderately", "enjoyed", "was", "their", "grilled", "chicken", "special", "with", "edamame", "puree"], "aspects": [["grilled chicken special with edamame puree", "positive"]]}
+{"senid": "821", "sens": ["for", "all", "you", "lazy", "folks", "that", "don't", "want", "to", "come", "to", "alphabet", "city", "i", "say", "good", "stay", "out"], "aspects": []}
+{"senid": "522", "sens": ["i", "don't", "get", "it", "either"], "aspects": []}
+{"senid": "1120", "sens": ["have", "been", "several", "times", "and", "it", "never", "dissapoints"], "aspects": []}
+{"senid": "913", "sens": ["the", "cream", "cheeses", "are", "out", "of", "this", "world", "and", "i", "love", "that", "coffee"], "aspects": [["cream cheeses", "positive"], ["coffee", "positive"]]}
+{"senid": "579", "sens": ["fantastic"], "aspects": []}
+{"senid": "1271", "sens": ["the", "vibe", "is", "very", "relaxed", "and", "cozy", "service", "was", "great", "and", "the", "food", "was", "excellent"], "aspects": [["vibe", "positive"], ["service", "positive"], ["food", "positive"]]}
+{"senid": "196", "sens": ["stepped", "on", "my", "foot", "on", "the", "second", "time", "he", "reached", "over", "me", "to", "adjust", "lighting"], "aspects": []}
+{"senid": "645", "sens": ["this", "restaurant", "is", "vegetarian", "there", "are", "no", "meat", "dishes", "whatsoever"], "aspects": [["dishes", "negative"]]}
+{"senid": "779", "sens": ["highly", "recommended"], "aspects": []}
+{"senid": "1370", "sens": ["my", "husband", "and", "i", "have", "been", "sold", "on", "this", "from", "the", "first", "visit"], "aspects": []}
+{"senid": "228", "sens": ["i", "live", "a", "block", "away", "and", "go", "to", "patsy's", "frequently"], "aspects": []}
+{"senid": "1674", "sens": ["i", "am", "actually", "offended", "to", "have", "spent", "so", "much", "money", "on", "such", "a", "bad", "experience"], "aspects": []}
+{"senid": "1099", "sens": ["quick", "and", "friendly", "service"], "aspects": [["service", "positive"]]}
+{"senid": "1251", "sens": ["great", "bagels", "spreads", "and", "a", "good", "place", "to", "hang", "out", "in"], "aspects": []}
+{"senid": "1163", "sens": ["this", "is", "the", "perfect", "date", "spot", "for", "williamsburg", "couples"], "aspects": []}
+{"senid": "1548", "sens": ["i've", "been", "wanting", "to", "go", "to", "this", "place", "forever", "and", "finally", "got", "a", "table"], "aspects": []}
+{"senid": "1365", "sens": ["there", "is", "something", "about", "their", "atmosphere", "that", "makes", "me", "come", "back", "nearly", "every", "week"], "aspects": [["atmosphere", "positive"]]}
+{"senid": "1578", "sens": ["amazing", "food"], "aspects": [["food", "positive"]]}
+{"senid": "124", "sens": ["you'll", "pay", "at", "least", "double", "at", "any", "other", "italian", "restaurant", "in", "the", "city", "and", "most", "still", "don't", "compare"], "aspects": []}
+{"senid": "1735", "sens": ["but", "if", "you're", "prepared", "to", "spend", "some", "$", "and", "remember", "to", "ask", "if", "something", "they", "offer", "is", "complimentary", "then", "this", "is", "the", "place", "to", "go", "for", "indian", "food"], "aspects": [["indian food", "positive"], ["place", "negative"]]}
+{"senid": "1068", "sens": ["what", "a", "great", "place"], "aspects": [["place", "positive"]]}
+{"senid": "1348", "sens": ["delivery", "guy", "sometimes", "get", "upset", "if", "you", "don't", "tip", "more", "than", "10%"], "aspects": [["delivery guy", "negative"]]}
+{"senid": "214", "sens": ["i", "had", "a", "grat", "time", "at", "jekyll", "and", "hyde"], "aspects": [["jekyll and hyde", "positive"]]}
+{"senid": "1144", "sens": ["ravioli", "was", "good", "but", "i", "have", "to", "say", "that", "i", "found", "everything", "a", "bit", "overpriced"], "aspects": [["ravioli", "positive"]]}
+{"senid": "745", "sens": ["the", "place", "was", "nice", "and", "calm"], "aspects": [["place", "positive"]]}
+{"senid": "1969", "sens": ["without", "the", "wait", "or", "attitude", "i", "would", "probably", "go", "back", "but", "there", "are", "just", "too", "many", "other", "restaurants", "in", "brooklyn", "that", "are", "as", "good", "or", "better", "and", "don't", "make", "me", "jump", "through", "hoops"], "aspects": []}
+{"senid": "128", "sens": ["the", "hostess", "is", "rude", "to", "the", "point", "of", "being", "offensive"], "aspects": [["hostess", "negative"]]}
+{"senid": "1323", "sens": ["it", "was", "totally", "overpriced", "fish", "and", "chips", "was", "about", "$15"], "aspects": [["fish and chips", "negative"]]}
+{"senid": "658", "sens": ["the", "menu", "is", "limited", "but", "almost", "all", "of", "the", "dishes", "are", "excellent"], "aspects": [["menu", "negative"], ["dishes", "positive"]]}
+{"senid": "1995", "sens": ["the", "waiter", "delivered", "our", "food", "while", "holding", "what", "appeared", "to", "be", "a", "plastic", "bag", "of", "garbage", "in", "one", "hand"], "aspects": [["waiter", "negative"]]}
+{"senid": "1033", "sens": ["their", "bagels", "are", "fine", "but", "they", "are", "a", "little", "overcooked", "and", "not", "really", "a", "'special'", "bagel", "experience"], "aspects": [["bagels", "negative"]]}
+{"senid": "1813", "sens": ["we", "paid", "a", "fixed", "pricce", "but", "got", "nothing"], "aspects": []}
+{"senid": "612", "sens": ["honestly", "the", "worst", "sushi", "my", "husband", "and", "i", "had", "in", "our", "entire", "lives"], "aspects": [["sushi", "negative"]]}
+{"senid": "1153", "sens": ["faan", "is", "sooo", "good"], "aspects": [["faan", "positive"]]}
+{"senid": "206", "sens": ["the", "bar", "is", "very", "well", "stocked", "with", "interesting", "beers", "and", "well", "priced", "wines"], "aspects": [["bar", "positive"], ["beers", "positive"], ["wines", "positive"]]}
+{"senid": "538", "sens": ["arigato", "gozimas", "yuka"], "aspects": []}
+{"senid": "1910", "sens": ["how", "this", "place", "survives", "the", "competitive", "west", "village", "market", "in", "this", "economy", "or", "any", "other", "for", "that", "matter", "is", "beyond", "me"], "aspects": [["place", "negative"]]}
+{"senid": "559", "sens": ["a", "guaranteeed", "delight"], "aspects": []}
+{"senid": "1296", "sens": ["i", "plan", "on", "stopping", "by", "next", "week", "as", "well"], "aspects": []}
+{"senid": "408", "sens": ["very", "affordable", "and", "excellent", "ambient"], "aspects": [["ambient", "positive"]]}
+{"senid": "716", "sens": ["my", "friends", "spoke", "so", "much", "about", "it", "for", "months", "i", "finally", "made", "the", "time", "to", "come", "down", "ear", "and", "dine", "in"], "aspects": []}
+{"senid": "1638", "sens": ["this", "establishment", "is", "the", "real", "deal"], "aspects": [["establishment", "positive"]]}
+{"senid": "1524", "sens": ["so", "what", "you", "really", "end", "up", "paying", "for", "is", "the", "restaurant", "not", "the", "food"], "aspects": [["restaurant", "negative"], ["restaurant", "neutral"], ["food", "negative"]]}
+{"senid": "1982", "sens": ["the", "only", "thing", "that", "my", "friend", "left", "out", "is", "that", "when", "we", "sat", "down", "at", "the", "bar", "the", "bartender", "disappeared"], "aspects": [["bartender", "negative"]]}
+{"senid": "1167", "sens": ["if", "only", "they", "delivered", "they'd", "make", "a", "mint"], "aspects": []}
+{"senid": "1093", "sens": ["it", "was", "pretty", "inexpensive", "too"], "aspects": []}
+{"senid": "1415", "sens": ["favorite", "sushi", "in", "nyc"], "aspects": [["sushi", "positive"]]}
+{"senid": "702", "sens": ["decor", "is", "charming"], "aspects": [["decor", "positive"]]}
+{"senid": "505", "sens": ["great", "pizza", "for", "lunch", "place"], "aspects": [["pizza", "positive"]]}
+{"senid": "1407", "sens": ["not", "because", "you", "are", "the", "four", "seasons", "you", "are", "allowed", "to", "charge", "an", "arm", "and", "a", "leg", "for", "a", "romatic", "dinner"], "aspects": [["the four seasons", "negative"]]}
+{"senid": "1701", "sens": ["i", "have", "never", "left", "a", "restaurant", "feeling", "as", "if", "i", "was", "abused", "and", "wasted", "my", "hard", "earned", "money"], "aspects": [["restaurant", "negative"], ["restaurant", "negative"]]}
+{"senid": "1789", "sens": ["the", "farro", "salad", "and", "the", "mashed", "yukon", "potatoes", "were", "also", "extremely", "tasty"], "aspects": [["farro salad", "positive"], ["mashed yukon potatoes", "positive"]]}
+{"senid": "974", "sens": ["i", "cannot", "imagine", "better", "indian", "food", "in", "all", "of", "the", "city"], "aspects": [["indian food", "positive"]]}
+{"senid": "109", "sens": ["price", "no", "more", "than", "a", "jersey", "deli", "but", "way", "better"], "aspects": []}
+{"senid": "1084", "sens": ["my", "friend", "from", "milan", "and", "myself", "were", "pleasantly", "surprised", "when", "we", "arrived", "and", "everyone", "spoke", "italian"], "aspects": []}
+{"senid": "354", "sens": ["and", "it", "all", "comes", "at", "a", "very", "reasonable", "price", "congee", "noodles", "and", "rice", "dishes", "are", "no", "more", "than", "$3", "6", "each"], "aspects": [["congee", "positive"], ["noodles", "positive"], ["rice dishes", "positive"]]}
+{"senid": "1441", "sens": ["i", "highly", "recommend", "this", "beautiful", "place"], "aspects": [["place", "positive"], ["place", "positive"]]}
+{"senid": "1903", "sens": ["well", "they", "can", "run", "but", "they", "can't", "hide"], "aspects": []}
+{"senid": "1904", "sens": ["i", "live", "in", "the", "west", "village", "and", "i've", "been", "to", "a", "lot", "of", "restaurants"], "aspects": []}
+{"senid": "341", "sens": ["although", "we", "were", "looking", "for", "regular", "lettuce", "and", "some", "walnuts", "the", "salads", "we", "got", "were", "great"], "aspects": [["salads", "positive"]]}
+{"senid": "259", "sens": ["food", "was", "very", "good", "as", "well", "considering", "that", "we", "tried", "the", "budget", "selection", "though", "i", "wish", "the", "pork", "belly", "that", "i", "ordered", "was", "roasted", "a", "bit", "longer", "so", "that", "fat", "was", "more", "of", "a", "melt", "in", "your", "mouth", "experience"], "aspects": [["food", "positive"], ["pork belly", "negative"]]}
+{"senid": "1832", "sens": ["we", "order", "a", "bit", "of", "everything", "on", "the", "menu"], "aspects": []}
+{"senid": "834", "sens": ["immediately", "after", "we", "paid", "the", "waiter", "took", "the", "money", "and", "said", "okay", "you", "guys", "are", "outta", "here"], "aspects": [["waiter", "negative"]]}
+{"senid": "1964", "sens": ["what", "a", "hassle"], "aspects": []}
+{"senid": "949", "sens": ["everything", "about", "this", "restaurant", "was", "special"], "aspects": [["restaurant", "positive"]]}
+{"senid": "675", "sens": ["please", "don't", "fool", "us"], "aspects": []}
+{"senid": "1871", "sens": ["everything", "was", "going", "good", "until", "we", "got", "our", "meals"], "aspects": [["meals", "negative"]]}
+{"senid": "507", "sens": ["the", "pizza", "was", "great"], "aspects": [["pizza", "positive"]]}
+{"senid": "1968", "sens": ["mistakes", "happen", "but", "they", "are", "usually", "accompanied", "by", "an", "apology", "perhaps", "even", "a", "glass", "of", "wine", "but", "not", "the", "grunt", "that", "we", "received", "from", "the", "al", "di", "la", "staff"], "aspects": [["staff", "negative"]]}
+{"senid": "1671", "sens": ["terrible", "waste", "of", "money", "scammers"], "aspects": []}
+{"senid": "1787", "sens": ["the", "wife", "had", "the", "risotto", "which", "was", "amazing"], "aspects": [["risotto", "positive"]]}
+{"senid": "1708", "sens": ["at", "first", "we", "were", "a", "little", "taken", "aback", "as", "this", "seemed", "to", "present", "a", "problem", "although", "the", "restaurant", "looked", "fairly", "empty", "but", "they", "hastily", "put", "the", "table", "together", "for", "us"], "aspects": []}
+{"senid": "180", "sens": ["it", "may", "be", "a", "bit", "packed", "on", "weekends", "but", "the", "vibe", "is", "good", "and", "it", "is", "the", "best", "french", "food", "you", "will", "find", "in", "the", "area"], "aspects": [["vibe", "positive"], ["french food", "positive"]]}
+{"senid": "1137", "sens": ["thanks", "bloom's", "for", "a", "lovely", "trip"], "aspects": [["bloom's", "positive"]]}
+{"senid": "1749", "sens": ["however", "once", "i", "received", "my", "predictably", "mediocre", "order", "of", "what", "dokebi", "thinks", "passes", "as", "korean", "fair", "sometimes", "you", "have", "to", "settle", "when", "it's", "your", "only", "option", "i", "got", "through", "about", "half", "my", "kimchee", "before", "i", "found", "a", "piece", "of", "random", "lettuce", "accompanied", "by", "a", "far", "more", "disgusting", "slimy", "clearly", "bad", "piece", "of", "fish", "skin"], "aspects": [["kimchee", "negative"], ["korean fair", "negative"]]}
+{"senid": "1362", "sens": ["the", "waiter", "was", "attentive", "the", "food", "was", "delicious", "and", "the", "views", "of", "the", "city", "were", "great"], "aspects": [["waiter", "positive"], ["food", "positive"], ["views of the city", "positive"]]}
+{"senid": "945", "sens": ["what", "more", "can", "you", "ask", "for"], "aspects": []}
+{"senid": "1888", "sens": ["the", "level", "of", "rudeness", "was", "preposterous"], "aspects": []}
+{"senid": "1725", "sens": ["all", "in", "all", "the", "food", "was", "good", "a", "little", "on", "the", "expensive", "side", "but", "fresh"], "aspects": [["food", "positive"], ["food", "negative"]]}
+{"senid": "1449", "sens": ["i", "come", "here", "enjoy", "very", "much", "with", "husband"], "aspects": []}
+{"senid": "1446", "sens": ["we", "were", "offered", "water", "for", "the", "table", "but", "were", "not", "told", "the", "voss", "bottles", "of", "water", "were", "$8", "a", "piece"], "aspects": [["voss bottles of water", "negative"]]}
+{"senid": "1321", "sens": ["overpriced", "and", "not", "tasty"], "aspects": []}
+{"senid": "1719", "sens": ["we", "called", "the", "other", "person", "who", "was", "very", "close", "by", "and", "she", "told", "us", "to", "order", "for", "her", "so", "we", "did"], "aspects": []}
+{"senid": "1848", "sens": ["the", "atmosphere", "was", "great"], "aspects": [["atmosphere", "positive"]]}
+{"senid": "1366", "sens": ["place", "is", "open", "till", "late", "no", "dress", "code"], "aspects": [["place", "positive"]]}
+{"senid": "1733", "sens": ["also", "waiters", "try", "to", "push", "more", "food", "on", "you", "like", "suggest", "things", "as", "if", "they", "are", "complimentary", "when", "they", "actually", "cost", "$"], "aspects": [["waiters", "negative"]]}
+{"senid": "352", "sens": ["the", "atmosphere", "is", "noisy", "and", "the", "waiters", "are", "literally", "walking", "around", "doing", "things", "as", "fast", "as", "they", "can"], "aspects": [["atmosphere", "negative"], ["waiters", "positive"]]}
+{"senid": "1778", "sens": ["as", "to", "my", "comment", "about", "the", "food", "no", "apology", "or", "acknowledgment", "was", "made"], "aspects": []}
+{"senid": "1763", "sens": ["i", "completely", "recommend", "casa", "la", "femme", "for", "any", "special", "occasion", "and", "to", "really", "impress", "your", "date"], "aspects": [["casa la femme", "positive"]]}
+{"senid": "1552", "sens": ["when", "the", "bill", "came", "nothing", "was", "comped", "so", "i", "told", "the", "manager", "very", "politely", "that", "we", "were", "willing", "to", "pay", "for", "the", "wine", "but", "i", "didn't", "think", "i", "should", "have", "to", "pay", "for", "food", "with", "a", "maggot", "in", "it"], "aspects": []}
+{"senid": "824", "sens": ["the", "menu", "has", "so", "many", "fish", "items", "and", "oysters"], "aspects": [["menu", "positive"]]}
+{"senid": "1190", "sens": ["for", "those", "that", "go", "once", "and", "don't", "enjoy", "it", "all", "i", "can", "say", "is", "that", "they", "just", "don't", "get", "it"], "aspects": []}
+{"senid": "274", "sens": ["we've", "lived", "in", "the", "area", "for", "more", "than", "8", "years"], "aspects": []}
+{"senid": "750", "sens": ["service", "was", "also", "very", "good"], "aspects": [["service", "positive"]]}
+{"senid": "766", "sens": ["conveniently", "located", "too", "being", "right", "on", "bedford", "ave"], "aspects": []}
+{"senid": "392", "sens": ["i'm", "still", "mad", "that", "i", "had", "to", "pay", "for", "lousy", "food"], "aspects": [["food", "negative"]]}
+{"senid": "777", "sens": ["it", "helps", "if", "you", "know", "what", "to", "order"], "aspects": []}
+{"senid": "1893", "sens": ["we", "have", "been", "there", "3", "times", "since", "last", "week", "we", "alked", "it", "by", "chance", "first", "day", "the", "manager", "offerd", "us", "the", "margherita", "pizza", "adn", "we", "said", "yes"], "aspects": []}
+{"senid": "1350", "sens": ["best", "sushi", "ever"], "aspects": [["sushi", "positive"]]}
+{"senid": "698", "sens": ["pizza", "here", "is", "consistently", "good"], "aspects": [["pizza", "positive"]]}
+{"senid": "9", "sens": ["the", "duck", "confit", "is", "always", "amazing", "and", "the", "foie", "gras", "terrine", "with", "figs", "was", "out", "of", "this", "world"], "aspects": [["foie gras terrine with figs", "positive"], ["duck confit", "positive"]]}
+{"senid": "1074", "sens": ["the", "shrimp", "scampi", "was", "excellent", "and", "the", "antipasti", "were", "plentiful"], "aspects": [["shrimp scampi", "positive"], ["antipasti", "positive"]]}
+{"senid": "1304", "sens": ["the", "mussels", "were", "fantastic", "and", "so", "was", "the", "dessert", "definitely", "going", "to", "be", "back", "very", "soon"], "aspects": [["mussels", "positive"], ["dessert", "positive"]]}
+{"senid": "271", "sens": ["it's", "simply", "the", "best", "meal", "in", "nyc"], "aspects": [["meal", "positive"]]}
+{"senid": "284", "sens": ["i", "highly", "recommend", "visiting", "this", "restaurant", "and", "having", "dinner", "and", "drinks"], "aspects": [["restaurant", "positive"]]}
+{"senid": "1305", "sens": ["i", "just", "read", "mocaramel's", "review", "and", "felt", "compelled", "to", "respond"], "aspects": []}
+{"senid": "353", "sens": ["the", "food", "is", "prepared", "quickly", "and", "efficiently"], "aspects": []}
+{"senid": "400", "sens": ["it's", "a", "small", "cute", "restaurant"], "aspects": [["restaurant", "positive"]]}
+{"senid": "1978", "sens": ["her", "review", "is", "above"], "aspects": []}
+{"senid": "222", "sens": ["service", "was", "prompt", "and", "courteous"], "aspects": [["service", "positive"]]}
+{"senid": "362", "sens": ["i", "recently", "went", "to", "this", "restaurant", "with", "some", "co", "workers", "for", "lunch", "and", "had", "an", "amazing", "time"], "aspects": [["restaurant", "positive"]]}
+{"senid": "1309", "sens": ["i", "love", "this", "place"], "aspects": [["place", "positive"]]}
+{"senid": "915", "sens": ["a", "little", "pricey", "but", "it", "really", "hits", "the", "spot", "on", "a", "sunday", "morning"], "aspects": []}
+{"senid": "1534", "sens": ["restaurants", "in", "manhattan", "should", "try", "to", "model", "food", "and", "service", "after", "this", "place"], "aspects": []}
+{"senid": "1426", "sens": ["and", "$11", "for", "a", "plate", "of", "bland", "guacamole"], "aspects": [["guacamole", "negative"], ["guacamole", "negative"]]}
+{"senid": "1604", "sens": ["great", "food", "great", "wine", "list", "great", "service", "in", "a", "great", "neighborhood"], "aspects": [["food", "positive"], ["wine list", "positive"], ["service", "positive"], ["neighborhood", "positive"]]}
+{"senid": "1884", "sens": ["i", "was", "literally", "going", "to", "explode", "but", "instead", "my", "boyfriend", "took", "the", "bill", "and", "went", "to", "find", "the", "manager"], "aspects": []}
+{"senid": "940", "sens": ["always", "busy", "but", "fast", "moving"], "aspects": []}
+{"senid": "529", "sens": ["when", "you", "add", "it", "all", "together", "it", "just", "doesn't", "seem", "worth", "it", "to", "me", "especially", "considering", "the", "prices"], "aspects": []}
+{"senid": "1661", "sens": ["i", "read", "reviews", "that", "called", "the", "restaurant", "too", "expensive", "and", "i", "thought", "to", "myself", "but", "may", "be", "it", "is", "worth", "it"], "aspects": [["restaurant", "negative"], ["restaurant", "negative"]]}
+{"senid": "818", "sens": ["however", "it", "is", "jus", "too", "good", "to", "not", "praise", "it"], "aspects": []}
+{"senid": "174", "sens": ["i", "have", "been", "going", "there", "since", "it", "opened", "and", "i", "can't", "get", "enough"], "aspects": []}
+{"senid": "337", "sens": ["visited", "there", "while", "on", "vacation", "and", "reading", "the", "reviews"], "aspects": []}
